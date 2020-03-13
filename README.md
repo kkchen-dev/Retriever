@@ -10,7 +10,12 @@ Placeholder
 
 ### Prerequisites
 
-Placeholder
+Required Python libraries include requests and feedparser.
+
+```
+    pip install requests
+    pip install feedparser
+```
 
 ### Installing
 
