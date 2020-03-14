@@ -1,4 +1,4 @@
-# Whats New with COVID-19
+# Retriever
 
 This is a COVID-19 news crawler. It will scrap latest COVID-19 news articles and display them.
 
