@@ -19,11 +19,21 @@ Required Python libraries include requests and feedparser.
 
 ### Installing
 
-Placeholder
+If you don't have Angular CLI
+```
+npm install -g @angular/cli
+```
+
+Install dependencies in the project
+```
+npm install
+```
 
 ## Running the tests
 
-Placeholder
+```
+ng serve
+```
 
 ### Break down into end to end tests
 
