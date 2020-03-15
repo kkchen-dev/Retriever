@@ -43,9 +43,8 @@ class RSSRetriever:
             keywords (set, optional): a set of keywords strings in the feeds to look for. Defaults to {}.
         
         Returns:
-            dict: dictionary of news data:
-
-            {source:list({"title": str, "published": str, "link": str,"summary": str})}
+            dict: returns a dictionary of the news data.
+            
         """
         feed = feedparser.parse(file)
         feed_data = collections.defaultdict(list)
@@ -58,15 +57,14 @@ class RSSRetriever:
 
                 sentiment = self.nlp.analyze(item["summary"])
                 # Tries updating the feed_data dict with rss dict retrieved in feed["items"]
-                feed_data[feed["channel"]["title"]].append({
+                feed_data[item["link"]] = {
+                        "category": feed["channel"]["title"],
                         "title": item["title"],
                         "published": item["published"],
-                        "link": item["link"],
                         "summary": item["summary"],
                         "summary_sentiment_score": sentiment["score"],
                         "summary_sentiment_magnitude": sentiment["magnitude"]
-                        
-                    })
+                    }
             except:
                 # Sometimes this happens when a rss feed lacks of some required entries
                 error_message = f"ERROR: {sys.exc_info()[:2]}"
