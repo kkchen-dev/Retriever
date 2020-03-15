@@ -1,320 +1,618 @@
 {
-    "NYT > U.S. News": [
-        {
-            "title": "The Coronavirus Swamps Local Health Departments, Already Crippled by Cuts",
-            "published": "Sat, 14 Mar 2020 22:10:37 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/us/coronavirus-health-departments.html",
-            "summary": "Many state and municipal health departments saw budget and staffing cuts a decade ago that were never restored.",
-            "summary_sentiment_score": -0.800000011920929,
-            "summary_sentiment_magnitude": 0.800000011920929
-        },
-        {
-            "title": "An Isolation Center Opened to Protect People From Coronavirus. Then Someone Wandered Out.",
-            "published": "Sun, 15 Mar 2020 03:36:24 +0000",
-            "link": "https://www.nytimes.com/2020/03/13/us/coronavirus-seattle-isolation-housing.html",
-            "summary": "A homeless person being tested for the coronavirus wandered out of a new isolation housing facility south of Seattle, prompting alarm from neighbors who wish their town hadn\u2019t been chosen.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "Coronavirus Is Shutting Schools. Is America Ready for Virtual Learning?",
-            "published": "Fri, 13 Mar 2020 22:24:07 +0000",
-            "link": "https://www.nytimes.com/2020/03/13/us/virtual-learning-challenges.html",
-            "summary": "Educators experienced with remote learning warn that closures can affect children\u2019s academic progress, safety and social lives.",
-            "summary_sentiment_score": 0.699999988079071,
-            "summary_sentiment_magnitude": 0.699999988079071
-        },
-        {
-            "title": "Efforts to Control the Coronavirus in the U.S. Could Get Even More Extreme",
-            "published": "Fri, 13 Mar 2020 22:38:24 +0000",
-            "link": "https://www.nytimes.com/2020/03/13/us/coronavirus-washington-quarantines.html",
-            "summary": "Schools are closed. Events are canceled. If the virus keeps spreading, governments have even more disruptive options in mind.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.20000000298023224
-        },
-        {
-            "title": "Trump Is Tested for Coronavirus, and Experts Ask: What Took So Long?",
-            "published": "Sat, 14 Mar 2020 23:27:56 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/health/coronavirus-trump-test.html",
-            "summary": "Federal officials are asking Americans for extraordinary vigilance against a new pathogen. President Trump has taken a different course, worrying scientists.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.10000000149011612
-        },
-        {
-            "title": "How to Protect Older People From the Coronavirus",
-            "published": "Sat, 14 Mar 2020 22:09:39 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/health/coronavirus-elderly-protection.html",
-            "summary": "People over 60, and especially over 80, are particularly vulnerable to severe or fatal infection. Here are some steps to reduce their risk.",
-            "summary_sentiment_score": -0.4000000059604645,
-            "summary_sentiment_magnitude": 0.800000011920929
-        },
-        {
-            "title": "How the Coronavirus Could Hurt the Accuracy of the 2020 Census",
-            "published": "Sat, 14 Mar 2020 21:26:43 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/us/how-the-coronavirus-could-hurt-the-accuracy-of-the-2020-census.html",
-            "summary": "Many people were already hard to count or suspicious of participating in the census. The virus will amplify those problems.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "Here\u2019s What\u2019s in Congress\u2019s Emergency Coronavirus Bill",
-            "published": "Sat, 14 Mar 2020 23:34:40 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/us/politics/congress-coronavirus-bill.html",
-            "summary": "The package includes free coronavirus testing for all, but its two weeks of paid sick don\u2019t apply to many workers. The Senate is expected to take up the measure early next week.",
-            "summary_sentiment_score": -0.4000000059604645,
-            "summary_sentiment_magnitude": 0.800000011920929
-        },
-        {
-            "title": "Local and State Officials Unlock Sweeping Powers to Fight Coronavirus",
-            "published": "Sat, 14 Mar 2020 18:56:18 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/us/national-state-emergency.html",
-            "summary": "At least 40 states and territories have declared states of emergency in response to the virus, giving them the authority to impose curfews, order traffic off the street and mandate quarantines.",
-            "summary_sentiment_score": -0.800000011920929,
-            "summary_sentiment_magnitude": 0.800000011920929
-        },
-        {
-            "title": "Internet Providers Won\u2019t Cut Off Users Over Unpaid Bills for 60 Days",
-            "published": "Sat, 14 Mar 2020 18:36:15 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/business/internet-providers-coronavirus.html",
-            "summary": "The pledge some companies took, in the face of the coronavirus pandemic, also calls for them to open public Wi-Fi hot spots and waive late fees, the F.C.C. said.",
-            "summary_sentiment_score": 0.30000001192092896,
-            "summary_sentiment_magnitude": 0.30000001192092896
-        },
-        {
-            "title": "On a Saturday Night in Florida, a Presidential Party Became a Coronavirus Hot Zone",
-            "published": "Sun, 15 Mar 2020 01:53:59 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/us/politics/trump-coronavirus-mar-a-lago.html",
-            "summary": "A weekend getaway at Mar-a-Lago put the president in contact with several people who later tested positive for the virus. The White House physician said the president had tested negative for the virus.",
-            "summary_sentiment_score": -0.10000000149011612,
-            "summary_sentiment_magnitude": 0.5
-        },
-        {
-            "title": "Coronavirus in California: School Districts Closed",
-            "published": "Sat, 14 Mar 2020 13:15:45 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/us/california-coronavirus-cases.html",
-            "summary": "Saturday: California\u2019s largest school districts have shut down, affecting more than 1,000,000 students across the state.",
-            "summary_sentiment_score": 0.20000000298023224,
-            "summary_sentiment_magnitude": 0.20000000298023224
-        },
-        {
-            "title": "Biden Builds a Lead as Sanders Presses On: This Week in the 2020 Race",
-            "published": "Sat, 14 Mar 2020 10:55:52 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/us/politics/coronavirus-biden-bernie-sanders.html",
-            "summary": "The coronavirus has dominated the news and is wreaking havoc on the political world. Nonetheless, the race for the Democratic nomination continues (with some modifications).",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "He Has 17,700 Bottles of Hand Sanitizer and Nowhere to Sell Them",
-            "published": "Sun, 15 Mar 2020 00:39:26 +0000",
-            "link": "https://www.nytimes.com/2020/03/14/technology/coronavirus-purell-wipes-amazon-sellers.html",
-            "summary": "Amazon cracked down on coronavirus price gouging. Now, while the rest of the world searches, some sellers are holding stockpiles of sanitizer and masks.",
-            "summary_sentiment_score": -0.30000001192092896,
-            "summary_sentiment_magnitude": 1.100000023841858
-        }
-    ],
-    "National": [
-        {
-            "title": "Why outbreaks like coronavirus spread exponentially, and how to ?flatten the curve?",
-            "published": "Sat, 14 Mar 2020 04:04:28 EDT",
-            "link": "https://www.washingtonpost.com/national/health-science/how-to-flatten-the-coronavirus-curve/2020/03/14/5e0842a8-654e-11ea-b3fc-7841686c5c57_graphic.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The early trickle of new coronavirus infections has turned into a steady current. By creating simple simulations, we can see how to slow it down.",
-            "summary_sentiment_score": 0.800000011920929,
-            "summary_sentiment_magnitude": 1.600000023841858
-        },
-        {
-            "title": "Life in the time of coronavirus: Anxious Americans pivot to new routines",
-            "published": "Sat, 14 Mar 2020 03:32:12 EDT",
-            "link": "https://www.washingtonpost.com/national/coronavirus-anxious-american-life/2020/03/14/f071769e-63e8-11ea-845d-e35b0234b136_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Across the country, a struggle between a determination to maintain normal life and a need to take extraordinary measures.",
-            "summary_sentiment_score": 0.6000000238418579,
-            "summary_sentiment_magnitude": 0.6000000238418579
-        },
-        {
-            "title": "These federal workers were exposed to the coronavirus while serving the public. Now they\u2019re quarantined.",
-            "published": "Sat, 14 Mar 2020 06:00:00 EDT",
-            "link": "https://www.washingtonpost.com/national/these-federal-workers-deal-with-the-public-theyve-been-exposed-to-the-coronavirus/2020/03/14/096a4400-647f-11ea-845d-e35b0234b136_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Across the country, federal workers say they\u2019ve received a lack direction and protective gear from their agencies.",
-            "summary_sentiment_score": -0.20000000298023224,
-            "summary_sentiment_magnitude": 0.20000000298023224
-        },
-        {
-            "title": "Coronavirus is shutting down American life as states try to battle outbreak",
-            "published": "Fri, 13 Mar 2020 08:57:00 EDT",
-            "link": "https://www.washingtonpost.com/national/coronavirus-outbreak-shutdown-america/2020/03/13/d8589434-6550-11ea-acca-80c22bbee96f_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Governors closed schools, iconic sporting events were canceled, and President Trump declared a national emergency.",
-            "summary_sentiment_score": -0.10000000149011612,
-            "summary_sentiment_magnitude": 0.10000000149011612
-        },
-        {
-            "title": "\u2018We\u2019re all scrambling\u2019: A coast-to-coast improvisation as schools prepare to close",
-            "published": "Fri, 13 Mar 2020 08:26:00 EDT",
-            "link": "https://www.washingtonpost.com/local/education/were-all-scrambling-a-coast-to-coast-improvisation-as-schools-prepare-to-close/2020/03/13/ed744858-655b-11ea-acca-80c22bbee96f_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Five more states announce statewide closures as coronavirus fears spiral.",
-            "summary_sentiment_score": 0.4000000059604645,
-            "summary_sentiment_magnitude": 0.4000000059604645
-        },
-        {
-            "title": "Federal employees may soon be ordered to work from home. That could pose serious cybersecurity risks",
-            "published": "Fri, 13 Mar 2020 05:47:53 EDT",
-            "link": "https://www.washingtonpost.com/nation/2020/03/13/federal-employees-may-soon-be-ordered-work-home-that-could-pose-serious-cybersecurity-risks/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The coronavirus outbreak may prompt the federal government\u2019s biggest telework experiment to date.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "Amid coronavirus outbreak, a thin line between prudence and panic",
-            "published": "Fri, 13 Mar 2020 12:42:00 EDT",
-            "link": "https://www.washingtonpost.com/national/coronavirus-pandemic-panic/2020/03/13/925b6f5e-6237-11ea-b3fc-7841686c5c57_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "No zombies, no riots, but panic-buying in shops and panic-selling of stocks show people are rattled.",
-            "summary_sentiment_score": -0.4000000059604645,
-            "summary_sentiment_magnitude": 0.4000000059604645
-        },
-        {
-            "title": "\u2018Not good enough\u2019: How Rep. Katie Porter\u2019s relentless questioning led the CDC chief to commit to free coronavirus testing",
-            "published": "Fri, 13 Mar 2020 07:22:33 EDT",
-            "link": "https://www.washingtonpost.com/nation/2020/03/13/coronavirus-testing-katie-porter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Some said Rep. Katie Porter's refusal to let CDC Director Robert Redfield off the hook will save lives.",
-            "summary_sentiment_score": -0.6000000238418579,
-            "summary_sentiment_magnitude": 0.6000000238418579
-        },
-        {
-            "title": "A small town takes a big hit after coronavirus is confirmed in its midst",
-            "published": "Thu, 12 Mar 2020 09:08:00 EDT",
-            "link": "https://www.washingtonpost.com/national/a-small-town-takes-a-big-hit-after-coronavirus-is-confirmed-in-its-midst/2020/03/12/52b674bc-63da-11ea-845d-e35b0234b136_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Schools and churches have closed in Cynthiana, Ky. Businesses are already suffering.",
-            "summary_sentiment_score": -0.10000000149011612,
-            "summary_sentiment_magnitude": 0.20000000298023224
-        }
-    ],
-    "BBC News - World": [
-        {
-            "title": "Coronavirus: Spain and France announce sweeping restrictions",
-            "published": "Sun, 15 Mar 2020 04:07:10 GMT",
-            "link": "https://www.bbc.co.uk/news/world-europe-51892477",
-            "summary": "Spain sharply restricts citizens' movements while France has closed non-essential public places.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "Trump tests negative for coronavirus - White House doctor",
-            "published": "Sun, 15 Mar 2020 01:46:23 GMT",
-            "link": "https://www.bbc.co.uk/news/world-us-canada-51893445",
-            "summary": "The US president was tested a week after meeting Brazilian officials later found to be infected.",
-            "summary_sentiment_score": -0.30000001192092896,
-            "summary_sentiment_magnitude": 0.30000001192092896
-        },
-        {
-            "title": "Coronavirus: US to extend travel ban to UK and Ireland",
-            "published": "Sat, 14 Mar 2020 23:40:54 GMT",
-            "link": "https://www.bbc.co.uk/news/world-us-canada-51891662",
-            "summary": "The new restriction will come into force in the early hours of Tuesday morning.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "Coronavirus: Europe now epicentre of the pandemic, says WHO",
-            "published": "Fri, 13 Mar 2020 23:21:54 GMT",
-            "link": "https://www.bbc.co.uk/news/world-europe-51876784",
-            "summary": "More cases are now reported every day in Europe than in China at its peak, the WHO says.",
-            "summary_sentiment_score": -0.5,
-            "summary_sentiment_magnitude": 0.5
-        },
-        {
-            "title": "Coronavirus: New Zealand PM says all arrivals must self-isolate",
-            "published": "Sat, 14 Mar 2020 05:36:03 GMT",
-            "link": "https://www.bbc.co.uk/news/world-asia-51885983",
-            "summary": "PM Jacinda Ardern says it is the world's strictest measure, with only Pacific islanders being exempt.",
-            "summary_sentiment_score": -0.10000000149011612,
-            "summary_sentiment_magnitude": 0.10000000149011612
-        },
-        {
-            "title": "Coronavirus: Tokyo Olympics will go ahead, says Japan's PM Shinzo Abe",
-            "published": "Sat, 14 Mar 2020 13:07:28 GMT",
-            "link": "https://www.bbc.co.uk/sport/olympics/51888491",
-            "summary": "Japan Prime Minister Shinzo Abe says the Tokyo Olympic Games will go ahead as planned in July, despite coronavirus concerns.",
-            "summary_sentiment_score": -0.20000000298023224,
-            "summary_sentiment_magnitude": 0.20000000298023224
-        },
-        {
-            "title": "Shincheonji and coronavirus: The mysterious 'cult' church blamed for S Korea's outbreak",
-            "published": "Sat, 14 Mar 2020 01:06:27 GMT",
-            "link": "https://www.bbc.co.uk/news/world-asia-51851250",
-            "summary": "The Shincheonji Church is known for its secretive practices, which many say helped the virus spread.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "France's Macron defies coronavirus lockdown with elections",
-            "published": "Sat, 14 Mar 2020 00:58:34 GMT",
-            "link": "https://www.bbc.co.uk/news/world-europe-51862828",
-            "summary": "Not even the coronavirus emergency will stop the French voting in local elections.",
-            "summary_sentiment_score": -0.10000000149011612,
-            "summary_sentiment_magnitude": 0.10000000149011612
-        },
-        {
-            "title": "Africa v coronavirus: A challenge for the continent",
-            "published": "Sat, 14 Mar 2020 01:43:11 GMT",
-            "link": "https://www.bbc.co.uk/news/world-africa-51873514",
-            "summary": "How countries across the continent are preparing as the deadly virus spreads around the world.",
-            "summary_sentiment_score": -0.6000000238418579,
-            "summary_sentiment_magnitude": 0.6000000238418579
-        },
-        {
-            "title": "Coronavirus: A mum's life inside the first US containment zone",
-            "published": "Fri, 13 Mar 2020 19:09:20 GMT",
-            "link": "https://www.bbc.co.uk/news/world-us-canada-51881275",
-            "summary": "Quarantined at home in New York state, Tamar Weinberg describes her fears and frustrations.",
-            "summary_sentiment_score": 0.5,
-            "summary_sentiment_magnitude": 0.5
-        },
-        {
-            "title": "Coronavirus: Tourism in Thailand hit by Covid-19",
-            "published": "Fri, 13 Mar 2020 00:20:56 GMT",
-            "link": "https://www.bbc.co.uk/news/business-51796812",
-            "summary": "Thailand's tourism industry, once considered very robust, is now struggling because of coronavirus.",
-            "summary_sentiment_score": 0.4000000059604645,
-            "summary_sentiment_magnitude": 0.4000000059604645
-        },
-        {
-            "title": "Life inside China's lockdown",
-            "published": "Fri, 13 Mar 2020 00:18:00 GMT",
-            "link": "https://www.bbc.co.uk/news/world-asia-china-51858226",
-            "summary": "Two filmmakers record life inside the epicentre of the coronavirus outbreak in China.",
-            "summary_sentiment_score": 0.30000001192092896,
-            "summary_sentiment_magnitude": 0.30000001192092896
-        },
-        {
-            "title": "Coronavirus: Italians sing from their windows to boost morale",
-            "published": "Sat, 14 Mar 2020 08:16:07 GMT",
-            "link": "https://www.bbc.co.uk/news/world-europe-51886547",
-            "summary": "A countrywide lockdown has not stopped Italians from bursting into morale-boosting song.",
-            "summary_sentiment_score": 0.30000001192092896,
-            "summary_sentiment_magnitude": 0.30000001192092896
-        },
-        {
-            "title": "Coronavirus: Italian patients treated in tents and warehouse",
-            "published": "Fri, 13 Mar 2020 23:20:18 GMT",
-            "link": "https://www.bbc.co.uk/news/world-europe-51883589",
-            "summary": "Overwhelmed by coronavirus cases, a hospital in Italy's north is putting some new arrivals in tents.",
-            "summary_sentiment_score": 0.10000000149011612,
-            "summary_sentiment_magnitude": 0.10000000149011612
-        },
-        {
-            "title": "Coronavirus: Washing hands no longer 'a luxury' \u2013 Irish deputy PM",
-            "published": "Sat, 14 Mar 2020 15:43:05 GMT",
-            "link": "https://www.bbc.co.uk/news/uk-northern-ireland-51891041",
-            "summary": "Irish deputy PM Simon Coveney says the coronavirus is going to change the way in which everyone lives.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        },
-        {
-            "title": "Coronavirus: Donald Trump declares US national emergency",
-            "published": "Fri, 13 Mar 2020 20:35:34 GMT",
-            "link": "https://www.bbc.co.uk/news/world-us-canada-51879699",
-            "summary": "President Donald Trump says the decision will allow access to around $50bn of funding to combat the coronavirus.",
-            "summary_sentiment_score": 0.0,
-            "summary_sentiment_magnitude": 0.0
-        }
-    ]
+    "https://www.nytimes.com/2020/03/15/world/coronavirus-news.html": {
+        "category": "NYT > World News",
+        "title": "Coronavirus Live Updates: Long Waits at U.S. Airports for Inbound Passengers; Trump Tests Negative",
+        "published": "Sun, 15 Mar 2020 04:30:41 +0000",
+        "summary": "Spain and France have announced countrywide restrictions, and the White House physician says President Trump\u2019s test came back negative.",
+        "summary_sentiment_score": -0.6000000238418579,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.nytimes.com/2020/03/14/world/europe/italians-find-a-moment-of-joy-in-this-moment-of-anxiety.html": {
+        "category": "NYT > World News",
+        "title": "Italians Find \u2018a Moment of Joy in This Moment of Anxiety\u2019",
+        "published": "Sun, 15 Mar 2020 00:45:17 +0000",
+        "summary": "Under lockdown to prevent the spread of the coronavirus, song breaks out from rooftops, balconies and windows.",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.nytimes.com/2020/03/14/world/europe/spain-coronavirus.html": {
+        "category": "NYT > World News",
+        "title": "Spain Imposes Nationwide Lockdown to Fight Coronavirus",
+        "published": "Sat, 14 Mar 2020 21:57:24 +0000",
+        "summary": "A day after an emergency was declared, government officials put in place sweeping restrictions on the public. Stay inside, residents were told.",
+        "summary_sentiment_score": -0.4000000059604645,
+        "summary_sentiment_magnitude": 0.8999999761581421
+    },
+    "https://www.nytimes.com/2020/03/14/business/media/coronavirus-china-journalists.html": {
+        "category": "NYT > World News",
+        "title": "As China Cracks Down on Coronavirus Coverage, Journalists Fight Back",
+        "published": "Sat, 14 Mar 2020 16:19:18 +0000",
+        "summary": "The Communist Party is trying to fill the airwaves with positive stories about its battle against the virus. Chinese reporters, buoyed by widespread calls for free speech, are resisting.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.800000011920929
+    },
+    "https://www.nytimes.com/2020/03/14/world/europe/boris-johnson-brexit-coronavirus.html": {
+        "category": "NYT > World News",
+        "title": "Boris Johnson Pressed to Move Brexit Deadline Amid Coronavirus Threat",
+        "published": "Sat, 14 Mar 2020 15:18:29 +0000",
+        "summary": "The schedule for Britain to negotiate its new relationship with the E.U. was already tight. With face-to-face talks on hold, it may be impossible. But Brexiters are already crying foul.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.nytimes.com/2020/03/13/world/canada/coronavirus-world-leaders-trump-bolsonaro-trudeau.html": {
+        "category": "NYT > World News",
+        "title": "Fears Rise for World Leaders as Officials Test Positive for Virus",
+        "published": "Fri, 13 Mar 2020 19:03:26 +0000",
+        "summary": "The global pandemic has reached into the circles of political elites around the world, as their top aides, ministers and even a spouse test positive for the coronavirus.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/13/world/asia/coronavirus-china-conspiracy-theory.html": {
+        "category": "NYT > World News",
+        "title": "China Spins Tale That the U.S. Army Started the Coronavirus Epidemic",
+        "published": "Sat, 14 Mar 2020 04:59:33 +0000",
+        "summary": "After criticizing American officials for politicizing the pandemic, Chinese officials and news outlets have floated unfounded theories that the United States was the source of the virus.",
+        "summary_sentiment_score": -0.10000000149011612,
+        "summary_sentiment_magnitude": 0.10000000149011612
+    },
+    "https://www.nytimes.com/2020/03/14/health/coronavirus-elderly-protection.html": {
+        "category": "NYT > World News",
+        "title": "How to Protect Older People From the Coronavirus",
+        "published": "Sat, 14 Mar 2020 22:09:39 +0000",
+        "summary": "People over 60, and especially over 80, are particularly vulnerable to severe or fatal infection. Here are some steps to reduce their risk.",
+        "summary_sentiment_score": -0.4000000059604645,
+        "summary_sentiment_magnitude": 0.800000011920929
+    },
+    "https://www.nytimes.com/2020/03/14/world/europe/france-coronavirus.html": {
+        "category": "NYT > World News",
+        "title": "Shutdowns Spread Across Europe as Spain and France Order Broad Restrictions",
+        "published": "Sun, 15 Mar 2020 00:52:01 +0000",
+        "summary": "Other European countries are turning to border closures to try to contain the coronavirus.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/14/world/asia/china-ren-zhiqiang.html": {
+        "category": "NYT > World News",
+        "title": "Chinese Tycoon Who Criticized Xi\u2019s Response to Coronavirus Has Vanished",
+        "published": "Sat, 14 Mar 2020 18:19:01 +0000",
+        "summary": "Ren Zhiqiang appears to be the latest government critic silenced by the Communist Party as it cracks down on dissent over the epidemic.",
+        "summary_sentiment_score": -0.800000011920929,
+        "summary_sentiment_magnitude": 0.800000011920929
+    },
+    "https://www.nytimes.com/2020/03/14/parenting/protests-coronavirus-hong-kong.html": {
+        "category": "NYT > World News",
+        "title": "Protests, Coronavirus and a Baby on the Way",
+        "published": "Sat, 14 Mar 2020 15:13:11 +0000",
+        "summary": "A New York Times journalist reflects on the experience of expecting a child while covering Hong Kong\u2019s recent unrest.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/14/world/coronavirus-live-updates.html": {
+        "category": "NYT > World News",
+        "title": "Live Coronavirus Updates and Coverage",
+        "published": "Sun, 15 Mar 2020 04:08:57 +0000",
+        "summary": "Spain and France have announced countrywide restrictions, and the White House physician says President Trump\u2019s test came back negative.",
+        "summary_sentiment_score": -0.6000000238418579,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.nytimes.com/2020/03/13/world/coronavirus-today.html": {
+        "category": "NYT > World News",
+        "title": "Coronavirus Briefing: What Happened Today",
+        "published": "Fri, 13 Mar 2020 22:29:21 +0000",
+        "summary": "President Trump declared a national emergency.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/13/world/canada/coronavirus-government-response-quarantine.html": {
+        "category": "NYT > World News",
+        "title": "How Far Can Canada Go to Slow Spread of the New Coronavirus?",
+        "published": "Sat, 14 Mar 2020 01:24:41 +0000",
+        "summary": "In this week\u2019s Canada Letter, we speak with an expert on public health law about the government\u2019s powers in an extraordinary time.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/13/world/europe/spain-coronavirus-emergency.html": {
+        "category": "NYT > World News",
+        "title": "Spain Becomes Latest Epicenter of Coronavirus After a Faltering Response",
+        "published": "Sat, 14 Mar 2020 13:22:09 +0000",
+        "summary": "The government declared a state of emergency Friday, days after it allowed mass gatherings in the capital and cases jumped to 4,200.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/13/health/robert-redfield-cdc-coronavirus.html": {
+        "category": "NYT > World News",
+        "title": "C.D.C.\u2019s Dr. Robert Redfield Confronts Coronavirus, and Anger",
+        "published": "Sat, 14 Mar 2020 22:01:24 +0000",
+        "summary": "He has been cautious, technical and reserved in the face of intense criticism for the agency\u2019s delay in rolling out testing for the infection.",
+        "summary_sentiment_score": -0.6000000238418579,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.nytimes.com/2020/03/13/world/middleeast/israel-coronavirus-netanyahu.html": {
+        "category": "NYT > World News",
+        "title": "Israel\u2019s Coronavirus Crisis Lets Netanyahu Seize the Initiative",
+        "published": "Fri, 13 Mar 2020 20:52:13 +0000",
+        "summary": "Amid a yearlong political and legal imbroglio, a deadly contagion may give Israel\u2019s embattled prime minister, Benjamin Netanyahu, a new lease on political life.",
+        "summary_sentiment_score": -0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.nytimes.com/2020/03/13/business/masks-china-coronavirus.html": {
+        "category": "NYT > World News",
+        "title": "The World Needs Masks. China Makes Them \u2014 But Has Been Hoarding Them.",
+        "published": "Sun, 15 Mar 2020 02:32:32 +0000",
+        "summary": "As China grappled with the coronavirus, it kept the masks it made. Now that other nations need them, pressure is rising on Beijing to resume exports.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/13/health/coronavirus-symptoms-flu-allergies.html": {
+        "category": "NYT > World News",
+        "title": "Your Nose Itches. Is It Allergies, Flu or the Coronavirus?",
+        "published": "Sat, 14 Mar 2020 16:53:05 +0000",
+        "summary": "Seasonal allergy symptoms differ from those caused by viral infections like influenza or the coronavirus.",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.nytimes.com/2020/03/13/science/coronavirus-social-networks-data.html": {
+        "category": "NYT > World News",
+        "title": "Mapping the Social Network of Coronavirus",
+        "published": "Fri, 13 Mar 2020 12:10:58 +0000",
+        "summary": "To slow the virus, Alessandro Vespignani and other analysts are racing to model the behavior of its human host.",
+        "summary_sentiment_score": -0.5,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "https://www.nytimes.com/2020/03/13/briefing/coronavirus-sophie-gregoire-trudeau-us-soccer.html": {
+        "category": "NYT > World News",
+        "title": "Coronavirus, Sophie Gr\u00e9goire Trudeau, U.S. Soccer: Your Friday Briefing",
+        "published": "Fri, 13 Mar 2020 10:37:11 +0000",
+        "summary": "Here's what you need to know.",
+        "summary_sentiment_score": 0.4000000059604645,
+        "summary_sentiment_magnitude": 0.4000000059604645
+    },
+    "https://www.nytimes.com/2020/03/13/briefing/coronavirus-markets-italy.html": {
+        "category": "NYT > World News",
+        "title": "Coronavirus, Markets, Italy: Your Friday Briefing",
+        "published": "Fri, 13 Mar 2020 06:14:20 +0000",
+        "summary": "Here\u2019s what you need to know.",
+        "summary_sentiment_score": 0.4000000059604645,
+        "summary_sentiment_magnitude": 0.4000000059604645
+    },
+    "https://www.nytimes.com/2020/03/12/world/canada/trudeau-wife-coronavirus.html": {
+        "category": "NYT > World News",
+        "title": "Sophie Gr\u00e9goire Trudeau, Wife of Canada\u2019s Leader, Tests Positive for Coronavirus",
+        "published": "Fri, 13 Mar 2020 13:04:46 +0000",
+        "summary": "Prime Minister Justin Trudeau will remain in isolation for the next two weeks.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/12/world/Covid-19-news.html": {
+        "category": "NYT > World News",
+        "title": "Coronavirus Briefing: What Happened Today",
+        "published": "Thu, 12 Mar 2020 23:43:53 +0000",
+        "summary": "Suspended sports. New bans on gatherings. A sick movie star. The outbreak felt a lot less distant today for many Americans.",
+        "summary_sentiment_score": -0.10000000149011612,
+        "summary_sentiment_magnitude": 1.899999976158142
+    },
+    "https://www.nytimes.com/2020/03/12/health/coronavirus-midlife-conditions.html": {
+        "category": "NYT > World News",
+        "title": "Coronavirus Threatens Americans With Underlying Conditions",
+        "published": "Sat, 14 Mar 2020 16:48:37 +0000",
+        "summary": "Those with chronic health problems are more likely to develop severe illnesses and to die, research shows.",
+        "summary_sentiment_score": 0.6000000238418579,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.nytimes.com/2020/03/12/world/europe/12italy-coronavirus-health-care.html": {
+        "category": "NYT > World News",
+        "title": "Italy\u2019s Health Care System Groans Under Coronavirus \u2014 a Warning to the World",
+        "published": "Fri, 13 Mar 2020 04:46:04 +0000",
+        "summary": "In less than three weeks, the virus has overloaded hospitals in northern Italy, offering a glimpse of what countries face if they cannot slow the contagion.",
+        "summary_sentiment_score": -0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.nytimes.com/2020/03/12/briefing/coronavirus-china-economy-markets-delhi-police.html": {
+        "category": "NYT > World News",
+        "title": "Coronavirus, China\u2019s Economy, Indian Police: Your Friday Briefing",
+        "published": "Thu, 12 Mar 2020 22:53:29 +0000",
+        "summary": "Here\u2019s what you need to know.",
+        "summary_sentiment_score": 0.4000000059604645,
+        "summary_sentiment_magnitude": 0.4000000059604645
+    },
+    "https://www.nytimes.com/2020/03/12/world/europe/europe-coronavirus-travel-ban.html": {
+        "category": "NYT > World News",
+        "title": "Chaos in Europe, and Anger, Over U.S. Travel Ban to Curb Coronavirus",
+        "published": "Thu, 12 Mar 2020 22:41:46 +0000",
+        "summary": "European leaders denounced President Trump\u2019s decision to block most visitors from the Continent for 30 days. Travelers scrambled to reach the United States before the ban takes effect.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.nytimes.com/2020/03/12/business/starbucks-coronavirus.html": {
+        "category": "NYT > World News",
+        "title": "Starbucks\u2019 Gathering-Spot Model Is Threatened by Coronavirus",
+        "published": "Thu, 12 Mar 2020 21:14:07 +0000",
+        "summary": "The coffee chain, which sees itself as a \u201cthird place\u201d between work and home, is trying to reassure customers and employees about its response to the outbreak.",
+        "summary_sentiment_score": -0.6000000238418579,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.nytimes.com/2020/03/12/travel/coronavirus-travel-ban-paris.html": {
+        "category": "NYT > World News",
+        "title": "European Coronavirus Travel Ban Leads to Chaos in Paris Airport",
+        "published": "Fri, 13 Mar 2020 14:17:25 +0000",
+        "summary": "When the phone rang at 2:15 a.m. in Paris, it was decision time: Try to get home or possibly get stuck?",
+        "summary_sentiment_score": -0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.washingtonpost.com/world/europe/coronavirus-spain-nationwide-lockdown/2020/03/14/3bec8690-6619-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Spain goes on nationwide lockdown as coronavirus cases surge",
+        "published": "Sat, 14 Mar 2020 09:21:00 EDT",
+        "summary": "The measures follow similar moves earlier in the week in Italy as the pandemic\u2019s center shifts to southern Europe.",
+        "summary_sentiment_score": 0.5,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "https://www.washingtonpost.com/world/2020/03/13/how-countries-around-world-have-tried-contain-coronavirus/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "How countries around the world have tried to contain the coronavirus",
+        "published": "Sat, 14 Mar 2020 08:24:56 EDT",
+        "summary": "How does the coronavirus pandemic end? Governments around the world are trying to figure that out, along with what role they can play. Some countries \u2014 including China, South Korea and Japan \u2014 appear to have had some success in slowing the rate of infection. But the United States and many European nations are still seeing exponential growth in cases.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.washingtonpost.com/world/2020/01/22/mapping-spread-new-coronavirus/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Mapping the spread of the coronavirus in the U.S. and worldwide",
+        "published": "Sat, 14 Mar 2020 08:14:42 EDT",
+        "summary": "Since the coronavirus outbreak began in China, new cases have been confirmed in more than 100 countries, with thousands of cases reported in South Korea, Italy and Iran and hundreds in the United States.",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.washingtonpost.com/world/europe/britain-and-ireland-added-to-us-travel-restrictions-as-coronavirus-barriers-expand/2020/03/14/81e16292-6614-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Britain and Ireland added to U.S. travel restrictions as coronavirus barriers expand",
+        "published": "Sat, 14 Mar 2020 03:59:00 EDT",
+        "summary": "Many in Britain thought their \u2018special relationship\u2019 with the United States would keep them off the list.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.washingtonpost.com/world/coronavirus-temperature-screening/2020/03/14/24185be0-6563-11ea-912d-d98032ec8e25_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Some countries use temperature checks for coronavirus. Others don\u2019t bother. Here\u2019s why.",
+        "published": "Sat, 14 Mar 2020 10:57:00 EDT",
+        "summary": "Experts say temperature screening can miss cases \u2014 and possibly deliver false positives.",
+        "summary_sentiment_score": -0.10000000149011612,
+        "summary_sentiment_magnitude": 0.10000000149011612
+    },
+    "https://www.washingtonpost.com/world/middle_east/the-tale-of-a-nile-cruise-that-spawned-an-international-coronavirus-outbreak/2020/03/13/6ab633fc-6314-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "The tale of how a Nile cruise boosted the international coronavirus outbreak",
+        "published": "Sat, 14 Mar 2020 07:00:00 EDT",
+        "summary": "A single, overlooked infection on the MS Asara multiplied, helping to spread the virus to the United States and other corners of the world.",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.washingtonpost.com/world/2020/03/13/coronavirus-latest-news/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Trump declares coronavirus outbreak a national emergency",
+        "published": "Fri, 13 Mar 2020 10:46:04 EDT",
+        "summary": "Concerns about the coronavirus pandemic rippled across the globe, as more events were canceled, more U.S. schools announced closures and government officials in Brazil, Australia and Florida said they had tested positive for the virus.",
+        "summary_sentiment_score": -0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.washingtonpost.com/world/coronavirus-offers-possible-political-thaw-in-israel/2020/03/13/bc99619a-6516-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Coronavirus offers possible political thaw in Israel",
+        "published": "Fri, 13 Mar 2020 05:20:00 EDT",
+        "summary": "Rivals Netanyahu and Gantz have discussed partnering in an emergency government.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.washingtonpost.com/world/2020/03/13/coronavirus-pandemic-makes-inroads-into-highest-echelons-world-politics/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "The coronavirus pandemic makes inroads into the highest echelons of world politics",
+        "published": "Fri, 13 Mar 2020 04:44:20 EDT",
+        "summary": "With startling speed, the coronavirus pandemic has extended its tendrils into the halls of power around the world.",
+        "summary_sentiment_score": 0.5,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "https://www.washingtonpost.com/world/europe/flatten-the-curve-coronavirus/2020/03/12/a648883c-6460-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Coronavirus curve shows much of Europe could face Italy-like surge within weeks",
+        "published": "Fri, 13 Mar 2020 04:10:00 EDT",
+        "summary": "Spain, Germany, France, Britain and the U.S. could see exponential increase in cases.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.washingtonpost.com/world/asia_pacific/coronavirus-south-korea-tracking-apps/2020/03/13/2bed568e-5fac-11ea-ac50-18701e14e06d_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "A \u2018travel log\u2019 of the times in South Korea: Mapping the movements of coronavirus carriers",
+        "published": "Fri, 13 Mar 2020 12:30:07 EDT",
+        "summary": "The data, even with names redacted, has raised questions about how to reconcile privacy against public health concerns.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.washingtonpost.com/world/asia_pacific/coronavirus-test-kits-south-korea-us/2020/03/13/007f14fc-64a1-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "South Korea is doing 10,000 coronavirus tests a day. The U.S. is struggling for even a small fraction of that.",
+        "published": "Fri, 13 Mar 2020 12:14:10 EDT",
+        "summary": "The huge contrast comes down to pre-outbreak planning by Seoul and fast action when it hit.",
+        "summary_sentiment_score": -0.10000000149011612,
+        "summary_sentiment_magnitude": 0.10000000149011612
+    },
+    "https://www.washingtonpost.com/world/under-fire-over-coronavirus-response-china-turns-to-a-familiar-fall-guy-trump/2020/03/13/bb324c84-64d2-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Under fire over coronavirus response, China turns to a familiar fall guy: Trump",
+        "published": "Fri, 13 Mar 2020 07:29:00 EDT",
+        "summary": "China is seeking to portray itself as a benevolent and responsible global power in a time of crisis.",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.washingtonpost.com/world/asia_pacific/thousands-of-police-seal-philippine-capital-to-fight-virus/2020/03/14/c67ca138-6654-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Thousands of police seal Philippine capital to fight virus",
+        "published": "Sat, 14 Mar 2020 08:34:49 EDT",
+        "summary": "Thousands of Philippine police, backed by the army and coast guard, have started sealing the densely populated capital from most domestic travelers in one of Southeast Asia\u2019s most drastic containment moves against the coronavirus",
+        "summary_sentiment_score": -0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.washingtonpost.com/world/europe/spain-limits-movements-closes-shops-to-stem-virus-spread/2020/03/14/33f37a14-6652-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Spain limits movements, closes shops to stem virus spread",
+        "published": "Sat, 14 Mar 2020 08:16:24 EDT",
+        "summary": "Spain\u2019s government is putting tight restrictions on movements and closing restaurants and other establishments as part of a two-week state of emergency to fight the sharp rise in coronavirus infections",
+        "summary_sentiment_score": -0.6000000238418579,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.washingtonpost.com/world/africa/virus-cases-spread-across-africa-nations-prepare-for-more/2020/03/14/3a75eeba-6627-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Virus cases spread across Africa, nations prepare for more",
+        "published": "Sat, 14 Mar 2020 03:08:46 EDT",
+        "summary": "Africa is seeing a steady spread of the coronavirus across the continent, with five new countries confirming cases on Saturday, so that 24 of Africa\u2019s 54 countries have COVID-19 patients",
+        "summary_sentiment_score": 0.5,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "https://www.washingtonpost.com/world/europe/wuhan-soccer-team-leaving-spain-to-escape-virus/2020/03/14/8d1c6d0e-6610-11ea-8a8e-5c5336b32760_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world": {
+        "category": "World",
+        "title": "Wuhan soccer team leaving Spain to escape virus",
+        "published": "Sat, 14 Mar 2020 12:26:27 EDT",
+        "summary": "The Chinese soccer team that was originally stuck in Spain because of the coronavirus outbreak is going back home to try to avoid its rapid spread in Europe",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.bbc.co.uk/news/world-europe-51892477": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Spain and France announce sweeping restrictions",
+        "published": "Sun, 15 Mar 2020 04:07:10 GMT",
+        "summary": "Spain sharply restricts citizens' movements while France has closed non-essential public places.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.bbc.co.uk/news/world-us-canada-51893445": {
+        "category": "BBC News - World",
+        "title": "Trump tests negative for coronavirus - White House doctor",
+        "published": "Sun, 15 Mar 2020 01:46:23 GMT",
+        "summary": "The US president was tested a week after meeting Brazilian officials later found to be infected.",
+        "summary_sentiment_score": -0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.bbc.co.uk/news/world-us-canada-51891662": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: US to extend travel ban to UK and Ireland",
+        "published": "Sat, 14 Mar 2020 23:40:54 GMT",
+        "summary": "The new restriction will come into force in the early hours of Tuesday morning.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.bbc.co.uk/news/world-europe-51876784": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Europe now epicentre of the pandemic, says WHO",
+        "published": "Fri, 13 Mar 2020 23:21:54 GMT",
+        "summary": "More cases are now reported every day in Europe than in China at its peak, the WHO says.",
+        "summary_sentiment_score": -0.5,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "https://www.bbc.co.uk/news/world-asia-51885983": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: New Zealand PM says all arrivals must self-isolate",
+        "published": "Sat, 14 Mar 2020 05:36:03 GMT",
+        "summary": "PM Jacinda Ardern says it is the world's strictest measure, with only Pacific islanders being exempt.",
+        "summary_sentiment_score": -0.10000000149011612,
+        "summary_sentiment_magnitude": 0.10000000149011612
+    },
+    "https://www.bbc.co.uk/sport/olympics/51888491": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Tokyo Olympics will go ahead, says Japan's PM Shinzo Abe",
+        "published": "Sat, 14 Mar 2020 13:07:28 GMT",
+        "summary": "Japan Prime Minister Shinzo Abe says the Tokyo Olympic Games will go ahead as planned in July, despite coronavirus concerns.",
+        "summary_sentiment_score": -0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.bbc.co.uk/news/world-asia-51851250": {
+        "category": "BBC News - World",
+        "title": "Shincheonji and coronavirus: The mysterious 'cult' church blamed for S Korea's outbreak",
+        "published": "Sat, 14 Mar 2020 01:06:27 GMT",
+        "summary": "The Shincheonji Church is known for its secretive practices, which many say helped the virus spread.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.bbc.co.uk/news/world-europe-51862828": {
+        "category": "BBC News - World",
+        "title": "France's Macron defies coronavirus lockdown with elections",
+        "published": "Sat, 14 Mar 2020 00:58:34 GMT",
+        "summary": "Not even the coronavirus emergency will stop the French voting in local elections.",
+        "summary_sentiment_score": -0.10000000149011612,
+        "summary_sentiment_magnitude": 0.10000000149011612
+    },
+    "https://www.bbc.co.uk/news/world-africa-51873514": {
+        "category": "BBC News - World",
+        "title": "Africa v coronavirus: A challenge for the continent",
+        "published": "Sat, 14 Mar 2020 01:43:11 GMT",
+        "summary": "How countries across the continent are preparing as the deadly virus spreads around the world.",
+        "summary_sentiment_score": -0.6000000238418579,
+        "summary_sentiment_magnitude": 0.6000000238418579
+    },
+    "https://www.bbc.co.uk/news/world-us-canada-51881275": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: A mum's life inside the first US containment zone",
+        "published": "Fri, 13 Mar 2020 19:09:20 GMT",
+        "summary": "Quarantined at home in New York state, Tamar Weinberg describes her fears and frustrations.",
+        "summary_sentiment_score": 0.5,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "https://www.bbc.co.uk/news/business-51796812": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Tourism in Thailand hit by Covid-19",
+        "published": "Fri, 13 Mar 2020 00:20:56 GMT",
+        "summary": "Thailand's tourism industry, once considered very robust, is now struggling because of coronavirus.",
+        "summary_sentiment_score": 0.4000000059604645,
+        "summary_sentiment_magnitude": 0.4000000059604645
+    },
+    "https://www.bbc.co.uk/news/world-asia-china-51858226": {
+        "category": "BBC News - World",
+        "title": "Life inside China's lockdown",
+        "published": "Fri, 13 Mar 2020 00:18:00 GMT",
+        "summary": "Two filmmakers record life inside the epicentre of the coronavirus outbreak in China.",
+        "summary_sentiment_score": 0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.bbc.co.uk/news/world-europe-51886547": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Italians sing from their windows to boost morale",
+        "published": "Sat, 14 Mar 2020 08:16:07 GMT",
+        "summary": "A countrywide lockdown has not stopped Italians from bursting into morale-boosting song.",
+        "summary_sentiment_score": 0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.bbc.co.uk/news/world-europe-51883589": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Italian patients treated in tents and warehouse",
+        "published": "Fri, 13 Mar 2020 23:20:18 GMT",
+        "summary": "Overwhelmed by coronavirus cases, a hospital in Italy's north is putting some new arrivals in tents.",
+        "summary_sentiment_score": 0.10000000149011612,
+        "summary_sentiment_magnitude": 0.10000000149011612
+    },
+    "https://www.bbc.co.uk/news/uk-northern-ireland-51891041": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Washing hands no longer 'a luxury' \u2013 Irish deputy PM",
+        "published": "Sat, 14 Mar 2020 15:43:05 GMT",
+        "summary": "Irish deputy PM Simon Coveney says the coronavirus is going to change the way in which everyone lives.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "https://www.bbc.co.uk/news/world-us-canada-51879699": {
+        "category": "BBC News - World",
+        "title": "Coronavirus: Donald Trump declares US national emergency",
+        "published": "Fri, 13 Mar 2020 20:35:34 GMT",
+        "summary": "President Donald Trump says the decision will allow access to around $50bn of funding to combat the coronavirus.",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/DCRV23eRKH8/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "What does the UK know about coronavirus that the rest of Europe doesn't?",
+        "published": "Sat, 14 Mar 2020 11:13:47 GMT",
+        "summary": "\u2022 Queen Elizabeth postpones engagements \n\u2022 Will it be possible to sneak into US via UK?\n\u2022 Your phone could be spreading coronavirus<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=DCRV23eRKH8:GX0cxq7-cok:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=DCRV23eRKH8:GX0cxq7-cok:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=DCRV23eRKH8:GX0cxq7-cok:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=DCRV23eRKH8:GX0cxq7-cok:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=DCRV23eRKH8:GX0cxq7-cok:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=DCRV23eRKH8:GX0cxq7-cok:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=DCRV23eRKH8:GX0cxq7-cok:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/DCRV23eRKH8\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.10000000149011612
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/kRJw0EQ7U-s/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "Satellite images show Iran building burial pits for coronavirus victims",
+        "published": "Fri, 13 Mar 2020 13:25:41 GMT",
+        "summary": "<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=kRJw0EQ7U-s:1XFDP9qw-T8:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=kRJw0EQ7U-s:1XFDP9qw-T8:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=kRJw0EQ7U-s:1XFDP9qw-T8:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=kRJw0EQ7U-s:1XFDP9qw-T8:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=kRJw0EQ7U-s:1XFDP9qw-T8:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=kRJw0EQ7U-s:1XFDP9qw-T8:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=kRJw0EQ7U-s:1XFDP9qw-T8:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/kRJw0EQ7U-s\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/K_loUxOHLb0/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "Coronavirus causing medicine shortages for people living with HIV",
+        "published": "Sat, 14 Mar 2020 03:47:35 GMT",
+        "summary": "<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=K_loUxOHLb0:ldbXe3yCt-o:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=K_loUxOHLb0:ldbXe3yCt-o:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=K_loUxOHLb0:ldbXe3yCt-o:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=K_loUxOHLb0:ldbXe3yCt-o:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=K_loUxOHLb0:ldbXe3yCt-o:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=K_loUxOHLb0:ldbXe3yCt-o:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=K_loUxOHLb0:ldbXe3yCt-o:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/K_loUxOHLb0\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/IOdoSKkewzg/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "Consumers snap up PhoneSoap to sanitize their cell phones",
+        "published": "Wed, 11 Mar 2020 21:59:08 GMT",
+        "summary": "Whatever you touch with your hands -- food, bacteria, dust -- can be transferred to your cell phone, making it a mobile petri dish possibly teeming with germs. So there's a growing discussion about how to keep phones sanitized as the novel coronavirus outbreak continues to spread worldwide.<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=IOdoSKkewzg:lS7ylOA2VdU:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=IOdoSKkewzg:lS7ylOA2VdU:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=IOdoSKkewzg:lS7ylOA2VdU:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=IOdoSKkewzg:lS7ylOA2VdU:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=IOdoSKkewzg:lS7ylOA2VdU:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=IOdoSKkewzg:lS7ylOA2VdU:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=IOdoSKkewzg:lS7ylOA2VdU:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/IOdoSKkewzg\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/8so1e7kJRaU/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "Apple: It's fine to use Clorox wipes on iPhones",
+        "published": "Tue, 10 Mar 2020 14:47:43 GMT",
+        "summary": "Apple says you should feel free to use disinfectant wipes to clean your iPhone. Smartphones are notorious germ magnets, and Apple issued new gadget-cleaning guidance as the novel coronavirus outbreak spreads.<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=8so1e7kJRaU:6Sm1L58aJK0:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=8so1e7kJRaU:6Sm1L58aJK0:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=8so1e7kJRaU:6Sm1L58aJK0:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=8so1e7kJRaU:6Sm1L58aJK0:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=8so1e7kJRaU:6Sm1L58aJK0:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=8so1e7kJRaU:6Sm1L58aJK0:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=8so1e7kJRaU:6Sm1L58aJK0:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/8so1e7kJRaU\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.5
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/3EY5hY-lNE0/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "China's massive car and aviation markets both collapsed last month",
+        "published": "Thu, 12 Mar 2020 11:15:50 GMT",
+        "summary": "China's automotive and aviation industries suffered historic drops in activity in February as the government locked down cities and restricted travel to contain the spread of the novel coronavirus pandemic.<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=3EY5hY-lNE0:I-iddLMFdTs:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=3EY5hY-lNE0:I-iddLMFdTs:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=3EY5hY-lNE0:I-iddLMFdTs:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=3EY5hY-lNE0:I-iddLMFdTs:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=3EY5hY-lNE0:I-iddLMFdTs:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=3EY5hY-lNE0:I-iddLMFdTs:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=3EY5hY-lNE0:I-iddLMFdTs:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/3EY5hY-lNE0\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": -0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/59NqKF5SCy0/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "Naomi Campbell wears hazmat suit to airport amid coronavirus outbreak",
+        "published": "Thu, 12 Mar 2020 01:14:35 GMT",
+        "summary": "Naomi Campbell has long been an advocate of staying germ-free while traveling.<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=59NqKF5SCy0:fZn-nvosYFY:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=59NqKF5SCy0:fZn-nvosYFY:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=59NqKF5SCy0:fZn-nvosYFY:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=59NqKF5SCy0:fZn-nvosYFY:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=59NqKF5SCy0:fZn-nvosYFY:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=59NqKF5SCy0:fZn-nvosYFY:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=59NqKF5SCy0:fZn-nvosYFY:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/59NqKF5SCy0\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": 0.0,
+        "summary_sentiment_magnitude": 0.0
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/5nK0QBSgEos/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "Private jets are taking off because of coronavirus",
+        "published": "Wed, 11 Mar 2020 01:10:24 GMT",
+        "summary": "So your flight's canceled, but you need to get home or to that important business meeting ASAP. Perhaps you're just nervous about transiting through a busy airport with other passengers.<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=5nK0QBSgEos:trXW9tOzU1M:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=5nK0QBSgEos:trXW9tOzU1M:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=5nK0QBSgEos:trXW9tOzU1M:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=5nK0QBSgEos:trXW9tOzU1M:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=5nK0QBSgEos:trXW9tOzU1M:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=5nK0QBSgEos:trXW9tOzU1M:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=5nK0QBSgEos:trXW9tOzU1M:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/5nK0QBSgEos\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": 0.20000000298023224,
+        "summary_sentiment_magnitude": 0.4000000059604645
+    },
+    "http://rss.cnn.com/~r/rss/cnn_world/~3/QwZYmjfEvH0/index.html": {
+        "category": "CNN.com - RSS Channel - World",
+        "title": "Why the last man standing on the coronavirus cruise ship never gave up",
+        "published": "Thu, 05 Mar 2020 14:26:45 GMT",
+        "summary": "His ship may have been to hell and back, becoming a floating coronavirus-infected prison for passengers quarantined at port in Japan, but when the captain of the Diamond Princess cruise ship became the last person aboard to finally step onto dry land, he looked entirely unruffled by the experience.<div class=\"feedflare\">\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=QwZYmjfEvH0:Tv2kcH9bxK8:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=yIl2AUoC8zA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=QwZYmjfEvH0:Tv2kcH9bxK8:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=7Q72WNTAKBA\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=QwZYmjfEvH0:Tv2kcH9bxK8:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=QwZYmjfEvH0:Tv2kcH9bxK8:V_sGLiPBpWU\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=QwZYmjfEvH0:Tv2kcH9bxK8:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?d=qj6IDK7rITs\" border=\"0\"></img></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_world?a=QwZYmjfEvH0:Tv2kcH9bxK8:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_world?i=QwZYmjfEvH0:Tv2kcH9bxK8:gIN9vFwOqvQ\" border=\"0\"></img></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_world/~4/QwZYmjfEvH0\" height=\"1\" width=\"1\" alt=\"\"/>",
+        "summary_sentiment_score": -0.4000000059604645,
+        "summary_sentiment_magnitude": 0.4000000059604645
+    },
+    "https://www.wsj.com/articles/coronavirus-closes-national-borders-apple-stores-11584183924": {
+        "category": "WSJ.com: World News",
+        "title": "U.S. Expands Europe Travel Ban as Spain Locks Down",
+        "published": "Sat, 14 Mar 2020 18:09:00 -0400",
+        "summary": "The Trump administration said it was broadening travel restrictions from Europe to include the U.K. and Ireland, as countries across the globe raced to slow the spread of the coronavirus pandemic and mitigate the economic damage.",
+        "summary_sentiment_score": -0.20000000298023224,
+        "summary_sentiment_magnitude": 0.20000000298023224
+    },
+    "https://www.wsj.com/articles/u-k-looks-to-slow-coronavirus-by-a-different-albeit-controversial-way-11584193530": {
+        "category": "WSJ.com: World News",
+        "title": "U.K. Looks to Slow Coronavirus a Different Way",
+        "published": "Sat, 14 Mar 2020 09:45:00 -0400",
+        "summary": "The U.K. government has decided travel bans are largely useless\u00a0at this stage of the epidemic,\u00a0and it hasn\u2019t followed many governments in Europe in banning big sporting events or closing schools.",
+        "summary_sentiment_score": -0.800000011920929,
+        "summary_sentiment_magnitude": 0.800000011920929
+    },
+    "https://www.wsj.com/articles/in-paris-candidates-have-to-learn-to-campaign-for-mayor-without-the-usual-kiss-on-the-cheek-as-coronavirus-spreads-11584177837": {
+        "category": "WSJ.com: World News",
+        "title": "Paris Mayoral Candidates Ditch the Usual Kiss on the Cheek as Coronavirus Spreads",
+        "published": "Sat, 14 Mar 2020 05:23:00 -0400",
+        "summary": "The race to see who runs France\u2019s capital reflects how politicians across the world have to figure out new ways to drum up votes on the campaign trail",
+        "summary_sentiment_score": -0.30000001192092896,
+        "summary_sentiment_magnitude": 0.30000001192092896
+    },
+    "https://www.wsj.com/articles/east-vs-west-coronavirus-fight-tests-divergent-strategies-11584110308": {
+        "category": "WSJ.com: World News",
+        "title": "East vs. West: Coronavirus Fight Tests Divergent Strategies",
+        "published": "Fri, 13 Mar 2020 17:22:00 -0400",
+        "summary": "South Korea and Italy offer two telling examples of how a country can tackle the coronavirus. Their disparate experiences hold urgent lessons for the U.S. and other democracies where the pandemic is at an earlier stage.",
+        "summary_sentiment_score": -0.30000001192092896,
+        "summary_sentiment_magnitude": 0.800000011920929
+    },
+    "https://www.wsj.com/articles/coronavirus-drives-israeli-political-rivals-to-discuss-unity-government-11584111435": {
+        "category": "WSJ.com: World News",
+        "title": "Coronavirus Drives Israeli Political Rivals to Discuss Unity Government",
+        "published": "Fri, 13 Mar 2020 10:57:00 -0400",
+        "summary": "Israel\u2019s Benjamin Netanyahu and Benny Gantz agreed to discuss forming a unity government, just days before the prime minister\u2019s corruption trial began, saying the threat from the new coronavirus made it necessary to end the political stalemate.",
+        "summary_sentiment_score": -0.800000011920929,
+        "summary_sentiment_magnitude": 0.800000011920929
+    }
 }
