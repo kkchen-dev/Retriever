@@ -1,5 +1,6 @@
 import json
 import sys
+import collections
 
 import feedparser
 import requests
@@ -20,40 +21,42 @@ def feed_saver(rss_urls_filename: str, storage_filename: str):
         for url in urls:
             # check if the url response is 200(OK) and assign requests.get(url) to req_url
             if (req_url := requests.get(url)).status_code == 200:
-                try:
-                    # try updating the news_data dict with rss dict retrieved form req_url
-                    news_data.update(feed_retriever(req_url.text))
-                except:
-                    # sometimes this happens when a rss feed lacks of some required entries
-                    print(f"ERROR: {sys.exc_info()[0]}, URL: {url}")
+                news_data.update(feed_retriever(req_url.text))
         
         if news_data:
             with open(storage_filename, "w") as f:
                 json.dump(news_data, f, indent=4)
 
 
-def feed_retriever(url: str):
-    """ Given a news rss url returns a dictionary of news data.
+def feed_retriever(file: str):
+    """ Given a news rss file returns a dictionary of news data.
     
     Args:
-        url (str): news rss url
+        file (str): news rss file
     
     Returns:
         dict: dictionary of news data:
 
         {source:list({"title": str, "published": str, "link": str,"summary": str})}
     """
-    feed = feedparser.parse(url)
-    return { 
-        feed["channel"]["title"]: [
-            {
-                "title": item["title"], 
-                "published": item["published"],
-                "link": item["link"], 
-                "summary": item["summary"]
-            } for item in feed["items"]
-        ]
-    }
+    feed = feedparser.parse(file)
+    feed_data = collections.defaultdict(list)
+    for item in feed["items"]:
+        try:
+            # try updating the feed_data dict with rss dict retrieved in feed["items"]
+            feed_data[feed["channel"]["title"]].append({
+                    "title": item["title"], 
+                    "published": item["published"],
+                    "link": item["link"], 
+                    "summary": item["summary"]
+                })
+        except:
+            # sometimes this happens when a rss feed lacks of some required entries
+            print("ERROR:", sys.exc_info())
+            if item["link"]:
+                print("ERROR FEED LINK:", item["link"])
+
+    return feed_data
 
 
 if __name__ == "__main__":
