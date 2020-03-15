@@ -4,169 +4,217 @@
             "title": "The Coronavirus Swamps Local Health Departments, Already Crippled by Cuts",
             "published": "Sat, 14 Mar 2020 22:10:37 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/coronavirus-health-departments.html",
-            "summary": "Many state and municipal health departments saw budget and staffing cuts a decade ago that were never restored."
+            "summary": "Many state and municipal health departments saw budget and staffing cuts a decade ago that were never restored.",
+            "summary_sentiment_score": -0.800000011920929,
+            "summary_sentiment_magnitude": 0.800000011920929
         },
         {
             "title": "An Isolation Center Opened to Protect People From Coronavirus. Then Someone Wandered Out.",
             "published": "Sat, 14 Mar 2020 14:31:38 +0000",
             "link": "https://www.nytimes.com/2020/03/13/us/coronavirus-seattle-isolation-housing.html",
-            "summary": "A homeless person being tested for the coronavirus wandered out of a new isolation housing facility south of Seattle, prompting alarm from neighbors who wish their town hadn\u2019t been chosen."
+            "summary": "A homeless person being tested for the coronavirus wandered out of a new isolation housing facility south of Seattle, prompting alarm from neighbors who wish their town hadn\u2019t been chosen.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Coronavirus Is Shutting Schools. Is America Ready for Virtual Learning?",
             "published": "Fri, 13 Mar 2020 22:24:07 +0000",
             "link": "https://www.nytimes.com/2020/03/13/us/virtual-learning-challenges.html",
-            "summary": "Educators experienced with remote learning warn that closures can affect children\u2019s academic progress, safety and social lives."
+            "summary": "Educators experienced with remote learning warn that closures can affect children\u2019s academic progress, safety and social lives.",
+            "summary_sentiment_score": 0.699999988079071,
+            "summary_sentiment_magnitude": 0.699999988079071
         },
         {
             "title": "Efforts to Control the Coronavirus in the U.S. Could Get Even More Extreme",
             "published": "Fri, 13 Mar 2020 22:38:24 +0000",
             "link": "https://www.nytimes.com/2020/03/13/us/coronavirus-washington-quarantines.html",
-            "summary": "Schools are closed. Events are canceled. If the virus keeps spreading, governments have even more disruptive options in mind."
+            "summary": "Schools are closed. Events are canceled. If the virus keeps spreading, governments have even more disruptive options in mind.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "Biden, Looking to Attract Progressives, Endorses Warren Bankruptcy Plan",
-            "published": "Sun, 15 Mar 2020 02:19:04 +0000",
+            "published": "Sun, 15 Mar 2020 02:55:11 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/biden-warren-bankruptcy.html",
-            "summary": "After clashing a decade ago, Joseph R. Biden Jr. now supports Elizabeth Warren\u2019s plan that allows student debt to be relieved in bankruptcy."
+            "summary": "The two clashed over bankruptcy policy more than a decade ago. But Joseph R. Biden Jr. now supports Elizabeth Warren\u2019s plan that allows student debt to be relieved in bankruptcy.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 1.399999976158142
         },
         {
             "title": "Man Sentenced to 54 Years for Crash That Killed 3 Girl Scouts and a Mother",
             "published": "Sun, 15 Mar 2020 00:07:50 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/colten-treu-girl-scouts-killing.html",
-            "summary": "The authorities said Colten Treu was high on an inhalant when he drove into a troop of Girl Scouts and parents who were cleaning the side of a road in Wisconsin."
+            "summary": "The authorities said Colten Treu was high on an inhalant when he drove into a troop of Girl Scouts and parents who were cleaning the side of a road in Wisconsin.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Trump Is Tested for Coronavirus, and Experts Ask: What Took So Long?",
             "published": "Sat, 14 Mar 2020 23:27:56 +0000",
             "link": "https://www.nytimes.com/2020/03/14/health/coronavirus-trump-test.html",
-            "summary": "Federal officials are asking Americans for extraordinary vigilance against a new pathogen. President Trump has taken a different course, worrying scientists."
+            "summary": "Federal officials are asking Americans for extraordinary vigilance against a new pathogen. President Trump has taken a different course, worrying scientists.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "How to Protect Older People From the Coronavirus",
             "published": "Sat, 14 Mar 2020 22:09:39 +0000",
             "link": "https://www.nytimes.com/2020/03/14/health/coronavirus-elderly-protection.html",
-            "summary": "People over 60, and especially over 80, are particularly vulnerable to severe or fatal infection. Here are some steps to reduce their risk."
+            "summary": "People over 60, and especially over 80, are particularly vulnerable to severe or fatal infection. Here are some steps to reduce their risk.",
+            "summary_sentiment_score": -0.4000000059604645,
+            "summary_sentiment_magnitude": 0.800000011920929
         },
         {
             "title": "Trump Supporters Know Where to Turn in a Crisis: To Him",
-            "published": "Sat, 14 Mar 2020 20:07:06 +0000",
+            "published": "Sun, 15 Mar 2020 03:12:17 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/trump-supporters-coronavirus.html",
-            "summary": "They\u2019re confident, for perhaps the first time in his presidency, that the experts on call aren\u2019t out to sabotage the president."
+            "summary": "They\u2019re confident, for perhaps the first time in his presidency, that the experts on call aren\u2019t out to sabotage the president.",
+            "summary_sentiment_score": 0.699999988079071,
+            "summary_sentiment_magnitude": 0.699999988079071
         },
         {
             "title": "How the Coronavirus Could Hurt the Accuracy of the 2020 Census",
             "published": "Sat, 14 Mar 2020 21:26:43 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/how-the-coronavirus-could-hurt-the-accuracy-of-the-2020-census.html",
-            "summary": "Many people were already hard to count or suspicious of participating in the census. The virus will amplify those problems."
+            "summary": "Many people were already hard to count or suspicious of participating in the census. The virus will amplify those problems.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Here\u2019s What\u2019s in Congress\u2019s Emergency Coronavirus Bill",
             "published": "Sat, 14 Mar 2020 23:34:40 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/congress-coronavirus-bill.html",
-            "summary": "The package includes free coronavirus testing for all, but its two weeks of paid sick don\u2019t apply to many workers. The Senate is expected to take up the measure early next week."
+            "summary": "The package includes free coronavirus testing for all, but its two weeks of paid sick don\u2019t apply to many workers. The Senate is expected to take up the measure early next week.",
+            "summary_sentiment_score": -0.4000000059604645,
+            "summary_sentiment_magnitude": 0.800000011920929
         },
         {
             "title": "Local and State Officials Unlock Sweeping Powers to Fight Coronavirus",
             "published": "Sat, 14 Mar 2020 18:56:18 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/national-state-emergency.html",
-            "summary": "At least 40 states and territories have declared states of emergency in response to the virus, giving them the authority to impose curfews, order traffic off the street and mandate quarantines."
+            "summary": "At least 40 states and territories have declared states of emergency in response to the virus, giving them the authority to impose curfews, order traffic off the street and mandate quarantines.",
+            "summary_sentiment_score": -0.800000011920929,
+            "summary_sentiment_magnitude": 0.800000011920929
         },
         {
             "title": "Bernie Sanders, Stand-Up Comic",
             "published": "Sat, 14 Mar 2020 17:03:15 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/bernie-sanders-comedy.html",
-            "summary": "He\u2019s been on the road in 2020 with a serious message about inequality in this country. That doesn\u2019t mean he hasn\u2019t found time to make fun of his age."
+            "summary": "He\u2019s been on the road in 2020 with a serious message about inequality in this country. That doesn\u2019t mean he hasn\u2019t found time to make fun of his age.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "Internet Providers Won\u2019t Cut Off Users Over Unpaid Bills for 60 Days",
             "published": "Sat, 14 Mar 2020 18:36:15 +0000",
             "link": "https://www.nytimes.com/2020/03/14/business/internet-providers-coronavirus.html",
-            "summary": "The pledge some companies took, in the face of the coronavirus pandemic, also calls for them to open public Wi-Fi hot spots and waive late fees, the F.C.C. said."
+            "summary": "The pledge some companies took, in the face of the coronavirus pandemic, also calls for them to open public Wi-Fi hot spots and waive late fees, the F.C.C. said.",
+            "summary_sentiment_score": 0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "On a Saturday Night in Florida, a Presidential Party Became a Coronavirus Hot Zone",
             "published": "Sun, 15 Mar 2020 01:53:59 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/trump-coronavirus-mar-a-lago.html",
-            "summary": "A weekend getaway at Mar-a-Lago put the president in contact with several people who later tested positive for the virus. The White House physician said the president had tested negative for the virus."
+            "summary": "A weekend getaway at Mar-a-Lago put the president in contact with several people who later tested positive for the virus. The White House physician said the president had tested negative for the virus.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.5
         },
         {
             "title": "Trump Is Losing Money in the Markets, Too",
             "published": "Sat, 14 Mar 2020 14:34:43 +0000",
             "link": "https://www.nytimes.com/2020/03/14/business/trump-wealth-markets-coronavirus.html",
-            "summary": "President Trump\u2019s investments in stocks and bonds are holding up no better than the S&P 500."
+            "summary": "President Trump\u2019s investments in stocks and bonds are holding up no better than the S&P 500.",
+            "summary_sentiment_score": 0.4000000059604645,
+            "summary_sentiment_magnitude": 0.4000000059604645
         },
         {
             "title": "Inside the Most Secret Place at Guant\u00e1namo Bay",
             "published": "Sat, 14 Mar 2020 14:29:43 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/guantanamo-bay-camp-7-911.html",
-            "summary": "At Camp 7, the military holds prisoners who were previously held and interrogated by the C.I.A. But in recent years, conditions have eased up a bit."
+            "summary": "At Camp 7, the military holds prisoners who were previously held and interrogated by the C.I.A. But in recent years, conditions have eased up a bit.",
+            "summary_sentiment_score": 0.4000000059604645,
+            "summary_sentiment_magnitude": 0.800000011920929
         },
         {
             "title": "Coronavirus in California: School Districts Closed",
             "published": "Sat, 14 Mar 2020 13:15:45 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/california-coronavirus-cases.html",
-            "summary": "Saturday: California\u2019s largest school districts have shut down, affecting more than 1,000,000 students across the state."
+            "summary": "Saturday: California\u2019s largest school districts have shut down, affecting more than 1,000,000 students across the state.",
+            "summary_sentiment_score": 0.20000000298023224,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "Could the 2020 Election Be Postponed? Only With Great Difficulty. Here\u2019s Why.",
-            "published": "Sat, 14 Mar 2020 12:00:09 +0000",
+            "published": "Sun, 15 Mar 2020 02:31:08 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/election-postponed-canceled.html",
-            "summary": "With Louisiana and Georgia delaying their primary votes, we answer six key questions about holding elections in a crisis. And no, a president cannot cancel an election with executive authority."
+            "summary": "With Louisiana and Georgia delaying their primary votes, we answer six key questions about holding elections in a crisis. And no, a president cannot cancel an election with executive authority.",
+            "summary_sentiment_score": -0.30000001192092896,
+            "summary_sentiment_magnitude": 0.699999988079071
         },
         {
             "title": "These Judges Are Shifting the Appeals Courts to the Right",
             "published": "Sat, 14 Mar 2020 10:57:31 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/trump-appeals-court-takeaways.html",
-            "summary": "Five takeaways from an examination by The New York Times reveal how President Trump has reshaped the federal judiciary."
+            "summary": "Five takeaways from an examination by The New York Times reveal how President Trump has reshaped the federal judiciary.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "51 Judges Named by Trump",
             "published": "Sat, 14 Mar 2020 10:04:11 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/appellate-judges-trump-appointees.html",
-            "summary": "Appointees by the president make up more than a quarter of the appellate bench, populating seats on 11 of the 13 circuits. This was their path to confirmation."
+            "summary": "Appointees by the president make up more than a quarter of the appellate bench, populating seats on 11 of the 13 circuits. This was their path to confirmation.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "A Conservative Agenda Unleashed on the Federal Courts",
             "published": "Sat, 14 Mar 2020 10:00:26 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/trump-appeals-court-judges.html",
-            "summary": "President Trump\u2019s imprint on the nation\u2019s appeals courts has been swift and historic. He has named judges with records on a range of issues important to Republicans \u2014 and to his re-election."
+            "summary": "President Trump\u2019s imprint on the nation\u2019s appeals courts has been swift and historic. He has named judges with records on a range of issues important to Republicans \u2014 and to his re-election.",
+            "summary_sentiment_score": 0.20000000298023224,
+            "summary_sentiment_magnitude": 0.8999999761581421
         },
         {
             "title": "The Milk Situation",
             "published": "Sat, 14 Mar 2020 10:00:07 +0000",
             "link": "https://www.nytimes.com/2020/03/14/style/milk-dairy-marketing.html",
-            "summary": "Americans have been souring on dairy milk for decades. Here\u2019s how farmers are trying to win us back."
+            "summary": "Americans have been souring on dairy milk for decades. Here\u2019s how farmers are trying to win us back.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Biden Builds a Lead as Sanders Presses On: This Week in the 2020 Race",
             "published": "Sat, 14 Mar 2020 10:55:52 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/coronavirus-biden-bernie-sanders.html",
-            "summary": "The coronavirus has dominated the news and is wreaking havoc on the political world. Nonetheless, the race for the Democratic nomination continues (with some modifications)."
+            "summary": "The coronavirus has dominated the news and is wreaking havoc on the political world. Nonetheless, the race for the Democratic nomination continues (with some modifications).",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "He Has 17,700 Bottles of Hand Sanitizer and Nowhere to Sell Them",
             "published": "Sun, 15 Mar 2020 00:39:26 +0000",
             "link": "https://www.nytimes.com/2020/03/14/technology/coronavirus-purell-wipes-amazon-sellers.html",
-            "summary": "Amazon cracked down on coronavirus price gouging. Now, while the rest of the world searches, some sellers are holding stockpiles of sanitizer and masks."
+            "summary": "Amazon cracked down on coronavirus price gouging. Now, while the rest of the world searches, some sellers are holding stockpiles of sanitizer and masks.",
+            "summary_sentiment_score": -0.30000001192092896,
+            "summary_sentiment_magnitude": 1.100000023841858
         },
         {
             "title": "Throw Out the Debate Playbook: Biden and Sanders to Clash Amid Crisis",
             "published": "Sat, 14 Mar 2020 10:55:23 +0000",
             "link": "https://www.nytimes.com/2020/03/14/us/politics/debate-sanders-biden.html",
-            "summary": "Joseph R. Biden Jr. and Bernie Sanders will be auditioning for the presidency, trying to convey leadership, against the backdrop of an unfolding national emergency."
+            "summary": "Joseph R. Biden Jr. and Bernie Sanders will be auditioning for the presidency, trying to convey leadership, against the backdrop of an unfolding national emergency.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Live Coronavirus Updates and Coverage",
-            "published": "Sun, 15 Mar 2020 01:52:54 +0000",
+            "published": "Sun, 15 Mar 2020 03:16:44 +0000",
             "link": "https://www.nytimes.com/2020/03/14/world/coronavirus-live-updates.html",
-            "summary": "Spain and France have announced countrywide restrictions, and the White House physician says President Trump\u2019s test came back negative."
-        },
-        {
-            "title": "\u2018Am I on Camera?\u2019 Joe Biden\u2019s Foray Into Virtual Campaigning",
-            "published": "Sun, 15 Mar 2020 01:22:25 +0000",
-            "link": "https://www.nytimes.com/2020/03/13/us/politics/joe-biden-digital-campaign.html",
-            "summary": "Technical glitches disrupted Mr. Biden\u2019s virtual town hall with voters in Illinois on Friday. Bernie Sanders held an online \u201cfireside chat\u2019\u2019 on Saturday. It\u2019s the new paradigm for candidates amid a health crisis."
+            "summary": "Spain and France have announced countrywide restrictions, and the White House physician says President Trump\u2019s test came back negative.",
+            "summary_sentiment_score": -0.6000000238418579,
+            "summary_sentiment_magnitude": 0.6000000238418579
         }
     ],
     "National": [
@@ -174,91 +222,121 @@
             "title": "In tobacco country, Trump\u2019s tariffs hit hard for growers and communities",
             "published": "Sat, 14 Mar 2020 04:18:13 EDT",
             "link": "https://www.washingtonpost.com/national/in-tobacco-country-trumps-tariffs-hit-hard-for-growers-and-communities/2020/03/14/8d29dfd6-5ff1-11ea-9055-5fa12981bbbf_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The pain is especially acute in North Carolina, where 2,000 growers are suffering from the loss of their biggest customer: China. Growers there have lost roughly $250 million since the tariffs were imposed in 2018."
+            "summary": "The pain is especially acute in North Carolina, where 2,000 growers are suffering from the loss of their biggest customer: China. Growers there have lost roughly $250 million since the tariffs were imposed in 2018.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "In Idaho, some students get accepted to college without even applying",
             "published": "Sat, 14 Mar 2020 01:00:00 EDT",
             "link": "https://www.washingtonpost.com/local/education/congratulations-you-got-into-college-without-even-applying/2020/03/14/588dabec-63f0-11ea-845d-e35b0234b136_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The idea is not only to embolden students to pursue degrees but to get them to stay in Idaho. It\u2019s an approach since picked up by South Dakota, while Illinois, Hawaii and Texas are considering similar initiatives."
+            "summary": "The idea is not only to embolden students to pursue degrees but to get them to stay in Idaho. It\u2019s an approach since picked up by South Dakota, while Illinois, Hawaii and Texas are considering similar initiatives.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "The demise of the polar vortex could spell weather surprises this spring",
             "published": "Sat, 14 Mar 2020 10:46:54 EDT",
             "link": "https://www.washingtonpost.com/weather/2020/03/14/polar-vortex-spring-weather/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "As far removed as it is, the polar vortex had dramatic implications on winter weather in the United States and could still cause wild temperature swings."
+            "summary": "As far removed as it is, the polar vortex had dramatic implications on winter weather in the United States and could still cause wild temperature swings.",
+            "summary_sentiment_score": 0.20000000298023224,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "\u2018We\u2019ll improvise\u2019: A resource-starved rural hospital steels itself for coronavirus\u2019s arrival",
             "published": "Sat, 14 Mar 2020 08:51:00 EDT",
             "link": "https://www.washingtonpost.com/national/well-improvise-a-resource-starved-rural-hospital-steels-itself-for-coronaviruss-arrival/2020/03/14/a724d1ac-6604-11ea-acca-80c22bbee96f_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The health center in hard-hit Washington state desperately seeks supplies essential to coping with the inevitable."
+            "summary": "The health center in hard-hit Washington state desperately seeks supplies essential to coping with the inevitable.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Why outbreaks like coronavirus spread exponentially, and how to ?flatten the curve?",
             "published": "Sat, 14 Mar 2020 04:04:28 EDT",
             "link": "https://www.washingtonpost.com/national/health-science/how-to-flatten-the-coronavirus-curve/2020/03/14/5e0842a8-654e-11ea-b3fc-7841686c5c57_graphic.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The early trickle of new coronavirus infections has turned into a steady current. By creating simple simulations, we can see how to slow it down."
+            "summary": "The early trickle of new coronavirus infections has turned into a steady current. By creating simple simulations, we can see how to slow it down.",
+            "summary_sentiment_score": 0.800000011920929,
+            "summary_sentiment_magnitude": 1.600000023841858
         },
         {
             "title": "Life in the time of coronavirus: Anxious Americans pivot to new routines",
             "published": "Sat, 14 Mar 2020 03:32:12 EDT",
             "link": "https://www.washingtonpost.com/national/coronavirus-anxious-american-life/2020/03/14/f071769e-63e8-11ea-845d-e35b0234b136_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Across the country, a struggle between a determination to maintain normal life and a need to take extraordinary measures."
+            "summary": "Across the country, a struggle between a determination to maintain normal life and a need to take extraordinary measures.",
+            "summary_sentiment_score": 0.6000000238418579,
+            "summary_sentiment_magnitude": 0.6000000238418579
         },
         {
             "title": "These federal workers were exposed to the coronavirus while serving the public. Now they\u2019re quarantined.",
             "published": "Sat, 14 Mar 2020 06:00:00 EDT",
             "link": "https://www.washingtonpost.com/national/these-federal-workers-deal-with-the-public-theyve-been-exposed-to-the-coronavirus/2020/03/14/096a4400-647f-11ea-845d-e35b0234b136_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Across the country, federal workers say they\u2019ve received a lack direction and protective gear from their agencies."
+            "summary": "Across the country, federal workers say they\u2019ve received a lack direction and protective gear from their agencies.",
+            "summary_sentiment_score": -0.20000000298023224,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "Coronavirus is shutting down American life as states try to battle outbreak",
             "published": "Fri, 13 Mar 2020 08:57:00 EDT",
             "link": "https://www.washingtonpost.com/national/coronavirus-outbreak-shutdown-america/2020/03/13/d8589434-6550-11ea-acca-80c22bbee96f_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Governors closed schools, iconic sporting events were canceled, and President Trump declared a national emergency."
+            "summary": "Governors closed schools, iconic sporting events were canceled, and President Trump declared a national emergency.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "\u2018We\u2019re all scrambling\u2019: A coast-to-coast improvisation as schools prepare to close",
             "published": "Fri, 13 Mar 2020 08:26:00 EDT",
             "link": "https://www.washingtonpost.com/local/education/were-all-scrambling-a-coast-to-coast-improvisation-as-schools-prepare-to-close/2020/03/13/ed744858-655b-11ea-acca-80c22bbee96f_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Five more states announce statewide closures as coronavirus fears spiral."
+            "summary": "Five more states announce statewide closures as coronavirus fears spiral.",
+            "summary_sentiment_score": 0.4000000059604645,
+            "summary_sentiment_magnitude": 0.4000000059604645
         },
         {
             "title": "Federal employees may soon be ordered to work from home. That could pose serious cybersecurity risks",
             "published": "Fri, 13 Mar 2020 05:47:53 EDT",
             "link": "https://www.washingtonpost.com/nation/2020/03/13/federal-employees-may-soon-be-ordered-work-home-that-could-pose-serious-cybersecurity-risks/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The coronavirus outbreak may prompt the federal government\u2019s biggest telework experiment to date."
+            "summary": "The coronavirus outbreak may prompt the federal government\u2019s biggest telework experiment to date.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Passengers flying to the U.S. from 26 countries in Europe will face enhanced screening",
             "published": "Fri, 13 Mar 2020 05:04:09 EDT",
             "link": "https://www.washingtonpost.com/transportation/2020/03/13/travelers-europe-will-face-additional-scrutiny/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "The new restrictions will begin Saturday at midnight."
+            "summary": "The new restrictions will begin Saturday at midnight.",
+            "summary_sentiment_score": -0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "Amid coronavirus outbreak, a thin line between prudence and panic",
             "published": "Fri, 13 Mar 2020 12:42:00 EDT",
             "link": "https://www.washingtonpost.com/national/coronavirus-pandemic-panic/2020/03/13/925b6f5e-6237-11ea-b3fc-7841686c5c57_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "No zombies, no riots, but panic-buying in shops and panic-selling of stocks show people are rattled."
+            "summary": "No zombies, no riots, but panic-buying in shops and panic-selling of stocks show people are rattled.",
+            "summary_sentiment_score": -0.4000000059604645,
+            "summary_sentiment_magnitude": 0.4000000059604645
         },
         {
             "title": "\u2018Not good enough\u2019: How Rep. Katie Porter\u2019s relentless questioning led the CDC chief to commit to free coronavirus testing",
             "published": "Fri, 13 Mar 2020 07:22:33 EDT",
             "link": "https://www.washingtonpost.com/nation/2020/03/13/coronavirus-testing-katie-porter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Some said Rep. Katie Porter's refusal to let CDC Director Robert Redfield off the hook will save lives."
+            "summary": "Some said Rep. Katie Porter's refusal to let CDC Director Robert Redfield off the hook will save lives.",
+            "summary_sentiment_score": -0.6000000238418579,
+            "summary_sentiment_magnitude": 0.6000000238418579
         },
         {
             "title": "HBO\u2019s possible \u2018Parasite\u2019 spinoff with Mark Ruffalo raises whitewashing concerns",
             "published": "Thu, 12 Mar 2020 10:56:31 EDT",
             "link": "https://www.washingtonpost.com/nation/2020/03/12/parasite-mark-ruffalo-whitewashing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Asian American representation in Hollywood has long been a struggle."
+            "summary": "Asian American representation in Hollywood has long been a struggle.",
+            "summary_sentiment_score": -0.20000000298023224,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "A small town takes a big hit after coronavirus is confirmed in its midst",
             "published": "Thu, 12 Mar 2020 09:08:00 EDT",
             "link": "https://www.washingtonpost.com/national/a-small-town-takes-a-big-hit-after-coronavirus-is-confirmed-in-its-midst/2020/03/12/52b674bc-63da-11ea-845d-e35b0234b136_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_national",
-            "summary": "Schools and churches have closed in Cynthiana, Ky. Businesses are already suffering."
+            "summary": "Schools and churches have closed in Cynthiana, Ky. Businesses are already suffering.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.20000000298023224
         }
     ],
     "BBC News - World": [
@@ -266,199 +344,265 @@
             "title": "Coronavirus: Spain and France announce sweeping restrictions",
             "published": "Sat, 14 Mar 2020 23:59:49 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51892477",
-            "summary": "Spain sharply restricts citizens' movements while France has closed non-essential public places."
+            "summary": "Spain sharply restricts citizens' movements while France has closed non-essential public places.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Trump tests negative for coronavirus - White House doctor",
             "published": "Sun, 15 Mar 2020 01:46:23 GMT",
             "link": "https://www.bbc.co.uk/news/world-us-canada-51893445",
-            "summary": "The US president was tested a week after meeting Brazilian officials later found to be infected."
+            "summary": "The US president was tested a week after meeting Brazilian officials later found to be infected.",
+            "summary_sentiment_score": -0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "Coronavirus: US to extend travel ban to UK and Ireland",
             "published": "Sat, 14 Mar 2020 23:40:54 GMT",
             "link": "https://www.bbc.co.uk/news/world-us-canada-51891662",
-            "summary": "The new restriction will come into force in the early hours of Tuesday morning."
+            "summary": "The new restriction will come into force in the early hours of Tuesday morning.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Coronavirus: Europe now epicentre of the pandemic, says WHO",
             "published": "Fri, 13 Mar 2020 23:21:54 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51876784",
-            "summary": "More cases are now reported every day in Europe than in China at its peak, the WHO says."
+            "summary": "More cases are now reported every day in Europe than in China at its peak, the WHO says.",
+            "summary_sentiment_score": -0.5,
+            "summary_sentiment_magnitude": 0.5
         },
         {
             "title": "Coronavirus: New Zealand PM says all arrivals must self-isolate",
             "published": "Sat, 14 Mar 2020 05:36:03 GMT",
             "link": "https://www.bbc.co.uk/news/world-asia-51885983",
-            "summary": "PM Jacinda Ardern says it is the world's strictest measure, with only Pacific islanders being exempt."
+            "summary": "PM Jacinda Ardern says it is the world's strictest measure, with only Pacific islanders being exempt.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "Canadian and Italian kidnapped in Burkina Faso turn up safe in Mali",
             "published": "Sat, 14 Mar 2020 22:22:30 GMT",
             "link": "https://www.bbc.co.uk/news/world-africa-51893154",
-            "summary": "\u00c9dith Blais and Luca Tacchetto, seized in 2018, apparently escaped and were picked up by UN forces."
+            "summary": "\u00c9dith Blais and Luca Tacchetto, seized in 2018, apparently escaped and were picked up by UN forces.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Iraq base attack: Coalition and Iraqi troops hurt as Taji targeted again",
             "published": "Sat, 14 Mar 2020 15:40:34 GMT",
             "link": "https://www.bbc.co.uk/news/world-middle-east-51890492",
-            "summary": "The attack comes a day after US air strikes in retaliation for a previous attack on the base."
+            "summary": "The attack comes a day after US air strikes in retaliation for a previous attack on the base.",
+            "summary_sentiment_score": 0.20000000298023224,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "Coronavirus: Tokyo Olympics will go ahead, says Japan's PM Shinzo Abe",
             "published": "Sat, 14 Mar 2020 13:07:28 GMT",
             "link": "https://www.bbc.co.uk/sport/olympics/51888491",
-            "summary": "Japan Prime Minister Shinzo Abe says the Tokyo Olympic Games will go ahead as planned in July, despite coronavirus concerns."
+            "summary": "Japan Prime Minister Shinzo Abe says the Tokyo Olympic Games will go ahead as planned in July, despite coronavirus concerns.",
+            "summary_sentiment_score": -0.20000000298023224,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "Bill Gates steps down from Microsoft board to focus on philanthropy",
             "published": "Fri, 13 Mar 2020 22:04:30 GMT",
             "link": "https://www.bbc.co.uk/news/business-51883377",
-            "summary": "The company's 65-year-old co-founder will spend more time on philanthropic activities."
+            "summary": "The company's 65-year-old co-founder will spend more time on philanthropic activities.",
+            "summary_sentiment_score": 0.10000000149011612,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "France: Former surgeon goes on trial on child rape and assault charges",
             "published": "Fri, 13 Mar 2020 22:23:30 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51883495",
-            "summary": "Jo\u00ebl Le Scouarnec, now aged 69, is charged with abusing four children between 1989 and 2017."
+            "summary": "Jo\u00ebl Le Scouarnec, now aged 69, is charged with abusing four children between 1989 and 2017.",
+            "summary_sentiment_score": -0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "Emiliano Sala crash: Pilot Ibbotson 'not licensed for flight'",
             "published": "Fri, 13 Mar 2020 18:02:33 GMT",
             "link": "https://www.bbc.co.uk/news/uk-wales-51870306",
-            "summary": "Investigators also say the footballer, 28, would have been \"deeply unconscious\" during the crash."
+            "summary": "Investigators also say the footballer, 28, would have been \"deeply unconscious\" during the crash.",
+            "summary_sentiment_score": -0.6000000238418579,
+            "summary_sentiment_magnitude": 0.6000000238418579
         },
         {
             "title": "MRKH syndrome: 'The day I discovered I was born without a vagina'",
             "published": "Sun, 15 Mar 2020 00:42:01 GMT",
             "link": "https://www.bbc.co.uk/news/world-africa-51723676",
-            "summary": "A routine question about menstruation led Julian Peter to discover she had no vagina, womb or cervix."
+            "summary": "A routine question about menstruation led Julian Peter to discover she had no vagina, womb or cervix.",
+            "summary_sentiment_score": -0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "Ratan Tata: An unlikely friendship between a magnate and a millennial",
             "published": "Sun, 15 Mar 2020 00:21:40 GMT",
             "link": "https://www.bbc.co.uk/news/world-asia-india-51797877",
-            "summary": "The Indian businessman behind the Tata empire has formed an unlikely friendship with a 27-year-old."
+            "summary": "The Indian businessman behind the Tata empire has formed an unlikely friendship with a 27-year-old.",
+            "summary_sentiment_score": 0.5,
+            "summary_sentiment_magnitude": 0.5
         },
         {
             "title": "Shincheonji and coronavirus: The mysterious 'cult' church blamed for S Korea's outbreak",
             "published": "Sat, 14 Mar 2020 01:06:27 GMT",
             "link": "https://www.bbc.co.uk/news/world-asia-51851250",
-            "summary": "The Shincheonji Church is known for its secretive practices, which many say helped the virus spread."
+            "summary": "The Shincheonji Church is known for its secretive practices, which many say helped the virus spread.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "France's Macron defies coronavirus lockdown with elections",
             "published": "Sat, 14 Mar 2020 00:58:34 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51862828",
-            "summary": "Not even the coronavirus emergency will stop the French voting in local elections."
+            "summary": "Not even the coronavirus emergency will stop the French voting in local elections.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "Africa v coronavirus: A challenge for the continent",
             "published": "Sat, 14 Mar 2020 01:43:11 GMT",
             "link": "https://www.bbc.co.uk/news/world-africa-51873514",
-            "summary": "How countries across the continent are preparing as the deadly virus spreads around the world."
+            "summary": "How countries across the continent are preparing as the deadly virus spreads around the world.",
+            "summary_sentiment_score": -0.6000000238418579,
+            "summary_sentiment_magnitude": 0.6000000238418579
         },
         {
             "title": "Coronavirus: A mum's life inside the first US containment zone",
             "published": "Fri, 13 Mar 2020 19:09:20 GMT",
             "link": "https://www.bbc.co.uk/news/world-us-canada-51881275",
-            "summary": "Quarantined at home in New York state, Tamar Weinberg describes her fears and frustrations."
+            "summary": "Quarantined at home in New York state, Tamar Weinberg describes her fears and frustrations.",
+            "summary_sentiment_score": 0.5,
+            "summary_sentiment_magnitude": 0.5
         },
         {
             "title": "Why a media mogul was arrested in Pakistan",
             "published": "Fri, 13 Mar 2020 15:46:29 GMT",
             "link": "https://www.bbc.co.uk/news/world-asia-51870596",
-            "summary": "The detention of Jang group's editor-in-chief by an anti-corruption agency prompts deep concern."
+            "summary": "The detention of Jang group's editor-in-chief by an anti-corruption agency prompts deep concern.",
+            "summary_sentiment_score": -0.4000000059604645,
+            "summary_sentiment_magnitude": 0.4000000059604645
         },
         {
             "title": "Coronavirus: Tourism in Thailand hit by Covid-19",
             "published": "Fri, 13 Mar 2020 00:20:56 GMT",
             "link": "https://www.bbc.co.uk/news/business-51796812",
-            "summary": "Thailand's tourism industry, once considered very robust, is now struggling because of coronavirus."
+            "summary": "Thailand's tourism industry, once considered very robust, is now struggling because of coronavirus.",
+            "summary_sentiment_score": 0.4000000059604645,
+            "summary_sentiment_magnitude": 0.4000000059604645
         },
         {
             "title": "Saviour of the dead: Burying the bodies India forgets",
             "published": "Fri, 13 Mar 2020 00:15:51 GMT",
             "link": "https://www.bbc.co.uk/news/world-asia-51545344",
-            "summary": "Mohammad Shareef never got to bury the son he lost in religious riots, so now he lays others to rest."
+            "summary": "Mohammad Shareef never got to bury the son he lost in religious riots, so now he lays others to rest.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Life inside China's lockdown",
             "published": "Fri, 13 Mar 2020 00:18:00 GMT",
             "link": "https://www.bbc.co.uk/news/world-asia-china-51858226",
-            "summary": "Two filmmakers record life inside the epicentre of the coronavirus outbreak in China."
+            "summary": "Two filmmakers record life inside the epicentre of the coronavirus outbreak in China.",
+            "summary_sentiment_score": 0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "Are female urinals the answer to queues at the loos?",
             "published": "Fri, 13 Mar 2020 00:13:28 GMT",
             "link": "https://www.bbc.co.uk/news/business-51293676",
-            "summary": "Clever designs are trying to tackle queues for female loos, but will the innovations catch on?"
+            "summary": "Clever designs are trying to tackle queues for female loos, but will the innovations catch on?",
+            "summary_sentiment_score": 0.699999988079071,
+            "summary_sentiment_magnitude": 0.699999988079071
         },
         {
             "title": "Harvey Weinstein: How a Hollywood giant faced his reckoning",
             "published": "Wed, 11 Mar 2020 17:20:47 GMT",
             "link": "https://www.bbc.co.uk/news/world-us-canada-51451977",
-            "summary": "The judge said this was not a referendum on #MeToo. But at times, his trial felt like one."
+            "summary": "The judge said this was not a referendum on #MeToo. But at times, his trial felt like one.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "How Europe deals with terror offenders when they are freed from jail",
             "published": "Thu, 12 Mar 2020 00:08:35 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51560046",
-            "summary": "Fearful of the risk from radicalised offenders, European countries plays a delicate balancing act."
+            "summary": "Fearful of the risk from radicalised offenders, European countries plays a delicate balancing act.",
+            "summary_sentiment_score": -0.6000000238418579,
+            "summary_sentiment_magnitude": 0.6000000238418579
         },
         {
             "title": "Ethiopia's Ambo city: 'From freedom to repression under Abiy Ahmed'",
             "published": "Thu, 12 Mar 2020 00:09:52 GMT",
             "link": "https://www.bbc.co.uk/news/world-africa-51657291",
-            "summary": "Ethiopia's Abiy Ahmed hailed Ambo as \"our New York\", but now residents complain of police brutality."
+            "summary": "Ethiopia's Abiy Ahmed hailed Ambo as \"our New York\", but now residents complain of police brutality.",
+            "summary_sentiment_score": -0.10000000149011612,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "Guinea-Bissau: Political chaos could boost cocaine trade",
             "published": "Thu, 12 Mar 2020 00:11:19 GMT",
             "link": "https://www.bbc.co.uk/news/world-africa-51833073",
-            "summary": "Guinea-Bissau, which has a history of coups, briefly had two presidents after disputed elections."
+            "summary": "Guinea-Bissau, which has a history of coups, briefly had two presidents after disputed elections.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Blasian love: The day we introduced our black and Asian families",
             "published": "Wed, 11 Mar 2020 00:20:43 GMT",
             "link": "https://www.bbc.co.uk/news/stories-51823799",
-            "summary": "Blasian - black and Asian - couples now exist in South Africa... but they don't always have an easy time."
+            "summary": "Blasian - black and Asian - couples now exist in South Africa... but they don't always have an easy time.",
+            "summary_sentiment_score": 0.20000000298023224,
+            "summary_sentiment_magnitude": 0.20000000298023224
         },
         {
             "title": "Coronavirus: Italians sing from their windows to boost morale",
             "published": "Sat, 14 Mar 2020 08:16:07 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51886547",
-            "summary": "A countrywide lockdown has not stopped Italians from bursting into morale-boosting song."
+            "summary": "A countrywide lockdown has not stopped Italians from bursting into morale-boosting song.",
+            "summary_sentiment_score": 0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         },
         {
             "title": "Coronavirus: Italian patients treated in tents and warehouse",
             "published": "Fri, 13 Mar 2020 23:20:18 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51883589",
-            "summary": "Overwhelmed by coronavirus cases, a hospital in Italy's north is putting some new arrivals in tents."
+            "summary": "Overwhelmed by coronavirus cases, a hospital in Italy's north is putting some new arrivals in tents.",
+            "summary_sentiment_score": 0.10000000149011612,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "Coronavirus: Washing hands no longer 'a luxury' \u2013 Irish deputy PM",
             "published": "Sat, 14 Mar 2020 15:43:05 GMT",
             "link": "https://www.bbc.co.uk/news/uk-northern-ireland-51891041",
-            "summary": "Irish deputy PM Simon Coveney says the coronavirus is going to change the way in which everyone lives."
+            "summary": "Irish deputy PM Simon Coveney says the coronavirus is going to change the way in which everyone lives.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Christmas Island: 'A giant robber crab stole my camera'",
             "published": "Fri, 13 Mar 2020 16:01:37 GMT",
             "link": "https://www.bbc.co.uk/news/world-australia-51867525",
-            "summary": "Crabs on Australia's Christmas Island are suspected of pinching some high-priced equipment."
+            "summary": "Crabs on Australia's Christmas Island are suspected of pinching some high-priced equipment.",
+            "summary_sentiment_score": 0.10000000149011612,
+            "summary_sentiment_magnitude": 0.10000000149011612
         },
         {
             "title": "Coronavirus: Donald Trump declares US national emergency",
             "published": "Fri, 13 Mar 2020 20:35:34 GMT",
             "link": "https://www.bbc.co.uk/news/world-us-canada-51879699",
-            "summary": "President Donald Trump says the decision will allow access to around $50bn of funding to combat the coronavirus."
+            "summary": "President Donald Trump says the decision will allow access to around $50bn of funding to combat the coronavirus.",
+            "summary_sentiment_score": 0.0,
+            "summary_sentiment_magnitude": 0.0
         },
         {
             "title": "Eleonore Laloux is looking to prove it as France\u2019s first political candidate with Down\u2019s Syndrome",
             "published": "Fri, 13 Mar 2020 00:04:56 GMT",
             "link": "https://www.bbc.co.uk/news/world-europe-51860050",
-            "summary": "And Eleonore Laloux is looking to prove it as France\u2019s first political candidate with Down\u2019s Syndrome"
+            "summary": "And Eleonore Laloux is looking to prove it as France\u2019s first political candidate with Down\u2019s Syndrome",
+            "summary_sentiment_score": -0.30000001192092896,
+            "summary_sentiment_magnitude": 0.30000001192092896
         }
     ]
 }
