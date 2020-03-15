@@ -10,11 +10,13 @@ Placeholder
 
 ### Prerequisites
 
-Required Python libraries include requests and feedparser.
+Required Python the following libraries.
 
 ```
-    pip install requests
-    pip install feedparser
+    pip install --upgrade requests
+    pip install --upgrade feedparser
+    pip install --upgrade google-cloud-language
+
 ```
 
 ### Installing

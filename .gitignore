@@ -1,1 +1,2 @@
-.vscode/
+python_modules/__pycache__/
+python_modules/google_cloud_api.json
