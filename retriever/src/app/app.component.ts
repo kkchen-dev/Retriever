@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NewsApiService } from './news-api.service';
+import { feeds } from './feeds';
 
 @Component({
   selector: 'app-root',
@@ -10,6 +11,7 @@ export class AppComponent {
   title = 'Retriever'
   mArticles:Array<any>;
   mSources:Array<any>;
+  feeds = feeds;
 
   constructor(private newsapi:NewsApiService){
     console.log('app component constructor called');
