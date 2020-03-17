@@ -75,7 +75,6 @@ class RSSRetriever:
                 if not self.check_keywords(item["title"], keywords)  \
                     and not self.check_keywords(item["summary"], keywords):
                     continue
-
                 sentiment = self.nlp.analyze(item["summary"])
                 # Tries updating the feed_data dict with rss dict retrieved in feed["items"]
                 feed_data[item["link"]] = {
