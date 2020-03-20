@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NewsApiService } from './news-api.service';
-import { feeds } from './feeds';
+import { feeds } from './mock_feeds';
 
 @Component({
   selector: 'app-root',
