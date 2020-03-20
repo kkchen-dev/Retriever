@@ -1,3 +1,5 @@
+
+
 <!-- <app-top-bar></app-top-bar> -->
 <mat-toolbar color="primary">
   <button mat-button (click)="sidenav.open ()" ><mat-icon>menu</mat-icon></button>
@@ -10,55 +12,8 @@
   <button mat-menu-item> Help </button>
 </mat-menu>
 <mat-sidenav-container class="example-container">
-
+  <app-feeds></app-feeds>
   <mat-sidenav #sidenav class="example-sidenav">
-    <mat-list class="list-nav">
-        <mat-list-item class="list-item" *ngFor="let source of mSources" (click)="searchArticles(source.id);sidenav.close();">
-
-          <div mat-card-avatar [ngStyle]="{'background-image': 'url(../assets/images/'+ source.id +'.png)'}" class="example-header-image"></div>
-
-          <span class="source-name"> {{source.name}}</span>
-
-        </mat-list-item>
-    </mat-list>
   </mat-sidenav>
-  <mat-card class="example-card"  *ngFor="let feed of feeds">
-    <mat-card-header>
-      <!-- <div mat-card-avatar [ngStyle]="{'background-image': 'url(../assets/images/'+ article.source.id +'.png)'}" class="example-header-image"></div> -->
-      <mat-card-title class="title">{{feed.title}}</mat-card-title>
-      <mat-card-subtitle>{{feed.category}}</mat-card-subtitle>
-    </mat-card-header>
-    <!-- <img mat-card-image class="img-article" src={{article.urlToImage}} alt=""> -->
-    <mat-card-content>
-      <p>
-        {{feed.summary}}
-      </p>
-    </mat-card-content>
-    <mat-card-actions class="action-buttons">
-      <button mat-button color="primary"><mat-icon>thumb_up_alt</mat-icon> 12 Likes</button>
-      <button mat-button color="primary"><mat-icon>comment</mat-icon> Comments</button>
-      <button mat-button color="primary"><mat-icon>share</mat-icon> Share</button>
-      <a mat-button color="primary" href={{feed.url}} target="_blank" ><mat-icon>visibility</mat-icon> More</a>
-    </mat-card-actions>
-  </mat-card>
-  <!-- <mat-card class="example-card"  *ngFor="let article of mArticles">
-    <mat-card-header>
-      <div mat-card-avatar [ngStyle]="{'background-image': 'url(../assets/images/'+ article.source.id +'.png)'}" class="example-header-image"></div>
-      <mat-card-title class="title">{{article.title}}</mat-card-title>
-      <mat-card-subtitle>{{article.source.name}}</mat-card-subtitle>
-    </mat-card-header>
-    <img mat-card-image class="img-article" src={{article.urlToImage}} alt="">
-    <mat-card-content>
-      <p>
-        {{article.description}}
-      </p>
-    </mat-card-content>
-    <mat-card-actions class="action-buttons">
-      <button mat-button color="primary"><mat-icon>thumb_up_alt</mat-icon> 12 Likes</button>
-      <button mat-button color="primary"><mat-icon>comment</mat-icon> Comments</button>
-      <button mat-button color="primary"><mat-icon>share</mat-icon> Share</button>
-      <a mat-button color="primary" href={{article.url}} target="_blank" ><mat-icon>visibility</mat-icon> More</a>
-    </mat-card-actions>
-  </mat-card> -->
 </mat-sidenav-container>
 <router-outlet></router-outlet>
