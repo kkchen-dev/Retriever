@@ -12,6 +12,8 @@ import nlp
 
 class RSSRetriever:
     def __init__(self):
+        """ Gets rss news feeds, analyze them, and save them into files with our own structure.
+        """
         self.nlp = nlp.NLP()
 
     def feed_saver(self, rss_urls_filename: str, storage_filename: str, keywords: set = set()):
