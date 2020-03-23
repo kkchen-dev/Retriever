@@ -9,12 +9,20 @@
     <p>
       {{feed.summary}}
     </p>
+
+    <p>
+      Sentiment:  &nbsp;
+      <!-- {{feed.summary_sentiment_score | number: '1.0'}} -->
+      <img *ngIf="feed.summary_sentiment_score >= 0.5" src="../../assets/images/sentiment/happy.png" style="width: 25px; height: 25px;">
+      <img *ngIf="feed.summary_sentiment_score < 0.5 && feed.summary_sentiment_score > -0.5" src="../../assets/images/sentiment/neutral.png" style="width: 25px; height: 25px;">
+      <img *ngIf="feed.summary_sentiment_score <= -0.5" src="../../assets/images/sentiment/sad.png" style="width: 25px; height: 25px;">
+    </p>
   </mat-card-content>
-  <mat-card-actions class="action-buttons">
-    <button mat-button color="primary"><mat-icon>thumb_up_alt</mat-icon> 12 Likes</button>
+  <!-- <mat-card-actions class="action-buttons"> -->
+    <!-- <button mat-button color="primary"><mat-icon>thumb_up_alt</mat-icon> 12 Likes</button>
     <button mat-button color="primary"><mat-icon>comment</mat-icon> Comments</button>
-    <button mat-button color="primary"><mat-icon>share</mat-icon> Share</button>
-    <a mat-button color="primary" href={{feed.url}} target="_blank" ><mat-icon>visibility</mat-icon> More</a>
-  </mat-card-actions>
+    <button mat-button color="primary"><mat-icon>share</mat-icon> Share</button> -->
+    <!-- <a mat-button color="primary" href={{feed.url}} target="_blank" ><mat-icon>visibility</mat-icon> More</a> -->
+  <!-- </mat-card-actions> -->
 </mat-card>
 <br/>
