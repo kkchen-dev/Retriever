@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { feeds } from '../mock_feeds';
+import { news_feeds } from '../../../../python_modules/news_feeds';
 
 @Component({
   selector: 'app-feeds',
@@ -7,7 +7,7 @@ import { feeds } from '../mock_feeds';
   styleUrls: ['./feeds.component.css']
 })
 export class FeedsComponent implements OnInit {
-  feeds = feeds;
+  feeds = news_feeds;
   constructor() { }
 
   ngOnInit(): void {
